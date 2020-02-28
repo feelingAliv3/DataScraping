@@ -16,7 +16,7 @@ def WorkerScanPages(managed_list, year):
         interested_list = mydivs[0].find_all("td")
         final_index = int(len(interested_list)/11)
         for i in range(final_index):
-            if (str(interested_list[(i*10)+i+5]).find("Total Foreign-Born") != -1) and (str(interested_list[(i*10)+i+4]).find("Total") != -1) and (str(interested_list[(i*10)+i+3]).find("Both Sexes") != -1):
+            if (str(interested_list[(i*10)+i+5]).find("Total Foreign-born") != -1) and (str(interested_list[(i*10)+i+4]).find("Total") != -1) and (str(interested_list[(i*10)+i+3]).find("Both Sexes") != -1):
                 value = re.findall("\d+", str(interested_list[(i*10)+i+9]))[0]
                 if (len(re.findall("\d+", str(interested_list[(i*10)+i+9]))) >= 2):
                     for i in np.arange(1,len(re.findall("\d+", str(interested_list[(i*10)+i+9])))):
