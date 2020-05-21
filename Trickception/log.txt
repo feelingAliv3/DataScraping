@@ -1,0 +1,1075 @@
+Sat May  2 07:31:28 2020,0,django import error - No module named core.management,0.012492149
+Sat May  2 07:31:36 2020,1,Strip HTML from strings in Python,0.01355956
+Sat May  2 07:31:45 2020,2,Python remove all whitespace in a string,0.012242948
+Sat May  2 07:32:01 2020,3,Python: Using .format() on a Unicode-escaped string,0.011114769
+Sat May  2 07:32:10 2020,4,What is the common header format of Python files?,0.011192432
+Sat May  2 07:32:18 2020,5,Pandas: drop a level from a multi-level column index?,0.010424371
+Sat May  2 07:32:49 2020,6,How do I get PyLint to recognize numpy members?,0.013286372
+Sat May  2 07:33:17 2020,7,Why use Django on Google App Engine?,0.015368685
+Sat May  2 07:33:26 2020,8,Consistenly create same random numpy array,0.012646101
+Sat May  2 07:33:46 2020,9,How can I read the RGB value of a given pixel in Python?,0.01067352
+Sat May  2 07:33:55 2020,10,Python locale error: unsupported locale setting,0.010856195
+Sat May  2 07:34:03 2020,11,How to organize a Python Project?,0.009639816
+Sat May  2 07:34:36 2020,12,Best way to randomize a list of strings in Python,0.010763269
+Sat May  2 07:34:57 2020,13,How do I calculate the date six months from the current date using the datetime Python module?,0.012293712
+Sat May  2 07:35:05 2020,14,How to sort (list/tuple) of lists/tuples?,0.010121556
+Sat May  2 07:35:14 2020,15,How to create module-wide variables in Python?,0.012419905
+Sat May  2 07:35:23 2020,16,What is the correct way to set Python's locale on Windows?,0.01390677
+Sat May  2 07:35:48 2020,17,Import order coding standard,0.01388371
+Sat May  2 07:36:21 2020,18,pydot and graphviz error: Couldn't import dot_parser, loading of dot files will not be possible,0.01247787
+Sat May  2 07:36:30 2020,19,How to make good reproducible pandas examples,0.011400199
+Sat May  2 07:36:39 2020,20,Django - what is the difference between render(), render_to_response() and direct_to_template()?,0.012454099
+Sat May  2 07:36:54 2020,21,How to get the PATH separator in Python?,0.008403492
+Sat May  2 07:37:03 2020,22,Python: Format output string, right alignment,0.010890068
+Sat May  2 07:37:18 2020,23,difference between len() and .__len__()?,0.012577791
+Sat May  2 07:37:58 2020,24,UnicodeEncodeError: 'ascii' codec can't encode character u'\xa0' in position 20: ordinal not in range(128),0.01439006
+Sat May  2 07:38:07 2020,25,How do I check whether a file exists using Python?,0.009501231
+Sat May  2 07:38:38 2020,26,How to get a variable name as a string in Python?,0.011212381
+Sat May  2 07:38:47 2020,27,When to use pip requirements file versus install_requires in setup.py?,0.014619197
+Sat May  2 07:38:55 2020,28,Python urllib2 Basic Auth Problem,0.0125676105
+Sat May  2 07:39:26 2020,29,Peak detection in a 2D array,0.007232956
+Sat May  2 07:39:52 2020,30,Python decorator makes function forget that it belongs to a class,0.012462696
+Sat May  2 07:40:14 2020,31,Overriding urllib2.HTTPError or urllib.error.HTTPError and reading response HTML anyway,0.010885929
+Sat May  2 07:40:44 2020,32,Python csv string to array,0.0121427905
+Sat May  2 07:40:53 2020,33,Case insensitive 'in' - Python,0.008310582
+Sat May  2 07:41:01 2020,34,How to sort a list of objects in Python, based on an attribute of the objects?,0.009885041
+Sat May  2 07:41:27 2020,35,Reverse Y-Axis in PyPlot,0.011877554
+Sat May  2 07:41:58 2020,36,Where to set maximum line length in pycharm,0.03125084
+Sat May  2 07:42:07 2020,37,Creating a list of objects in Python,0.009020214
+Sat May  2 07:42:22 2020,38,Python argparse ignore unrecognised arguments,0.010963474
+Sat May  2 07:42:31 2020,39,How to download large file in python with requests.py?,0.013284255
+Sat May  2 07:42:40 2020,40,Python UnicodeDecodeError - Am I misunderstanding encode?,0.012703814
+Sat May  2 07:43:05 2020,41,Reimport a module in python while interactive,0.01185855
+Sat May  2 07:43:31 2020,42,Splitting on last delimiter in Python string?,0.014563763
+Sat May  2 07:43:40 2020,43,How do I access the child classes of an object in django without knowing the name of the child class?,0.009836587
+Sat May  2 07:43:49 2020,44,Overriding urllib2.HTTPError or urllib.error.HTTPError and reading response HTML anyway,0.010819138
+Sat May  2 07:43:57 2020,45,bash: pip: command not found,0.008683335
+Sat May  2 08:01:16 2020,46,How to retry after exception in python?,0.0121944295
+Sat May  2 08:01:24 2020,47,Best way to generate xml?,0.009605122
+Sat May  2 08:01:55 2020,48,Changing a specific column name in pandas DataFrame,0.011954745
+Sat May  2 08:02:26 2020,49,Find the nth occurrence of substring in a string,0.011004456
+Sat May  2 08:02:34 2020,50,How do I find the location of Python module sources?,0.04412454
+Sat May  2 08:02:51 2020,51,error: command 'gcc' failed with exit status 1 while installing eventlet,0.011999213
+Sat May  2 08:03:00 2020,52,ipython server can't launch: No module named notebook.notebookapp,0.011342414
+Sat May  2 08:03:15 2020,53,Python unittests in Jenkins?,0.010906096
+Sat May  2 08:03:57 2020,54,Seeking clarification on apparent contradictions regarding weakly typed languages,0.011750155
+Sat May  2 08:04:23 2020,55,Remove the first character of a string,0.014248067
+Sat May  2 08:04:52 2020,56,*args, **kwargs in jinja2 macros,0.011297855
+Sat May  2 08:05:15 2020,57,Python PIL: how to write PNG image to string,0.011435387
+Sat May  2 08:05:40 2020,58,Complexity of len() with regard to sets and lists,0.0101797385
+Sat May  2 08:06:22 2020,59,Python 3.x rounding behavior,0.008490236
+Sat May  2 08:06:31 2020,60,Can I catch error codes when using Fabric to run() calls in a remote shell?,0.011924529
+Sat May  2 08:07:10 2020,61,What is the standard way to add N seconds to datetime.time in Python?,0.013255497
+Sat May  2 08:07:48 2020,62,How to write a download progress indicator in Python?,0.03998531
+Sat May  2 08:07:57 2020,63,Converting unix timestamp string to readable date in Python,0.014224362
+Sat May  2 08:08:12 2020,64,Multiprocessing vs Threading Python,0.014453687
+Sat May  2 08:08:47 2020,65,Python + Django page redirect,0.010315284
+Sat May  2 08:09:20 2020,66,Why does creating a list from a list make it larger?,0.013535142
+Sat May  2 08:09:28 2020,67,Is explicitly closing files important?,0.009819659
+Sat May  2 08:09:47 2020,68,What's the difference between subprocess Popen and call (how can I use them)?,0.011020816
+Sat May  2 08:09:56 2020,69,Getting command-line password input in Python,0.013247772
+Sat May  2 08:10:05 2020,70,matplotlib: Set markers for individual points on a line,0.011060573
+Sat May  2 08:10:35 2020,71,Iterating Over Dictionary Key Values Corresponding to List in Python,0.012258471
+Sat May  2 08:10:44 2020,72,How to trim whitespace (including tabs)?,0.011235568
+Sat May  2 08:11:10 2020,73,Running single test from unittest.TestCase via command line,0.01313711
+Sat May  2 08:11:42 2020,74,Django class-based view: How do I pass additional parameters to the as_view method?,0.011419126
+Sat May  2 08:11:51 2020,75,How do I keep track of pip-installed packages in an Anaconda (Conda) environment?,0.0129416855
+Sat May  2 08:12:23 2020,76,How to check if an object is a generator object in python?,0.013180432
+Sat May  2 08:12:43 2020,77,Python constructor and default value,0.012724798
+Sat May  2 08:13:13 2020,78,Cross-platform way of getting temp directory in Python,0.01315827
+Sat May  2 08:13:39 2020,79,How do I type a floating point infinity literal in python,0.011507141
+Sat May  2 08:14:28 2020,80,How to check if one of the following items is in a list?,0.011785329
+Sat May  2 08:14:36 2020,81,difference between len() and .__len__()?,0.012175738
+Sat May  2 08:14:45 2020,82,Read password from stdin,0.013467992
+Sat May  2 08:14:53 2020,83,What's the difference between select_related and prefetch_related in Django ORM?,0.011774833
+Sat May  2 08:15:38 2020,84,Python: Why is functools.partial necessary?,0.010811964
+Sat May  2 08:15:46 2020,85,Does Python optimize tail recursion?,0.010345571
+Sat May  2 08:15:55 2020,86,Convert TimeDiff to total seconds,0.011376567
+Sat May  2 08:16:03 2020,87,String Interpolation in Python,0.0097155245
+Sat May  2 08:16:12 2020,88,Python version 2.6 required, which was not found in the registry,0.010119239
+Sat May  2 08:16:21 2020,89,What are good uses for Python3's "Function Annotations",0.008856019
+Sat May  2 08:16:41 2020,90,Element-wise Addition of 2 Lists in Python?,0.009838217
+Sat May  2 08:17:36 2020,91,Log to the base 2 in python,0.008767143
+Sat May  2 08:17:57 2020,92,How to prevent errno 32 broken pipe?,0.011472953
+Sat May  2 08:18:50 2020,93,Python - List of unique dictionaries,0.0126278205
+Sat May  2 08:18:59 2020,94,Why is this Haskell program so much slower than an equivalent Python one?,0.011722211
+Sat May  2 08:19:07 2020,95,python print end=' ',0.011012382
+Sat May  2 08:19:16 2020,96,Order of syntax for using 'not' and 'in' keywords,0.007394196
+Sat May  2 08:19:35 2020,97,Python String and Integer concatenation,0.011576139
+Sat May  2 08:20:02 2020,98,Where is Python's "best ASCII for this Unicode" database?,0.011545014
+Sat May  2 08:20:49 2020,99,Removing multiple keys from a dictionary safely,0.013972812
+Sat May  2 08:21:10 2020,100,How do I get the picture size with PIL?,0.008471413
+Sat May  2 08:21:31 2020,101,Can I force pip to reinstall the current version?,0.011944561
+Sat May  2 08:21:53 2020,102,`staticmethod` and `abc.abstractmethod`: Will it blend?,0.011895791
+Sat May  2 08:22:02 2020,103,How to convert 'binary string' to normal string in Python3?,0.0106154755
+Sat May  2 08:22:11 2020,104,Assigning a variable NaN in python without numpy,0.010896453
+Sat May  2 08:22:36 2020,105,Escaping regex string in Python,0.010728199
+Sat May  2 08:23:09 2020,106,Python 3.x rounding behavior,0.008430361
+Sat May  2 08:23:27 2020,107,How should I log while using multiprocessing in Python?,0.015646534
+Sat May  2 08:23:35 2020,108,'pip' is not recognized as an internal or external command,0.010877057
+Sat May  2 08:24:04 2020,109,Python string interning,0.00886828
+Sat May  2 08:24:22 2020,110,How do I find the location of my Python site-packages directory?,0.20901468
+Sat May  2 08:26:52 2020,111,Function chaining in Python,0.009480972
+Sat May  2 08:27:01 2020,112,How to call a shell script from python code?,0.012486613
+Sat May  2 08:27:09 2020,113,How to send an email with Python?,0.034513332
+Sat May  2 08:27:36 2020,114,"OSError: [Errno 1] Operation not permitted" when installing Scrapy in OSX 10.11 (El Capitan) (System Integrity Protection),0.0141241625
+Sat May  2 08:27:58 2020,115,IPython tab completion not working,0.013122483
+Sat May  2 08:28:07 2020,116,models.py getting huge, what is the best way to break it up?,0.01225406
+Sat May  2 08:28:35 2020,117,How do I use Python's itertools.groupby()?,0.012668948
+Sat May  2 08:29:04 2020,118,How to escape os.system() calls in Python?,0.012524605
+Sat May  2 08:29:20 2020,119,Case insensitive 'in' - Python,0.008310582
+Sat May  2 08:29:29 2020,120,Fastest way to convert a dict's keys & values from `unicode` to `str`?,0.012140997
+Sat May  2 08:30:05 2020,121,Why do you need to create a cursor when querying a sqlite database?,0.01139393
+Sat May  2 08:30:30 2020,122,Convert a Python int into a big-endian string of bytes,0.013399014
+Sat May  2 08:30:38 2020,123,How do I type a floating point infinity literal in python,0.011182313
+Sat May  2 08:31:06 2020,124,Difference between subprocess.Popen and os.system,0.01080251
+Sat May  2 08:31:28 2020,125,Javascript equivalent of Python's zip function,0.009875334
+Sat May  2 08:31:49 2020,126,Django - how to create a file and save it to a model's FileField?,0.011879101
+Sat May  2 08:32:05 2020,127,Pandas: drop a level from a multi-level column index?,0.009554628
+Sat May  2 08:32:57 2020,128,Is there a way to use PhantomJS in Python?,0.010805886
+Sat May  2 08:33:23 2020,129,Java vs Python on Hadoop,0.010860224
+Sat May  2 08:33:54 2020,130,How to check which version of Numpy I'm using?,0.010052531
+Sat May  2 08:34:03 2020,131,Django: Redirect to previous page after login,0.012459377
+Sat May  2 08:34:12 2020,132,String concatenation without '+' operator in python,0.010289004
+Sat May  2 08:34:27 2020,133,Print in one line dynamically,0.0109796375
+Sat May  2 08:35:21 2020,134,cross platform IPC,0.012183644
+Sat May  2 08:35:29 2020,135,Pandas: drop a level from a multi-level column index?,0.009462013
+Sat May  2 08:35:37 2020,136,Reading/parsing Excel (xls) files with Python,0.009035757
+Sat May  2 08:35:54 2020,137,How to pip install packages according to requirements.txt from a local directory?,0.008244663
+Sat May  2 08:36:25 2020,138,How Pony (ORM) does its tricks?,0.010793832
+Sat May  2 08:36:34 2020,139,Python variable scope error,0.013833657
+Sat May  2 08:36:42 2020,140,How do I get JSON data from RESTful service using Python?,0.010240376
+Sat May  2 08:37:04 2020,141,Why doesn't django's model.save() call full_clean()?,0.009573316
+Sat May  2 08:37:12 2020,142,matplotlib does not show my drawings although I call pyplot.show(),0.012263816
+Sat May  2 08:37:44 2020,143,How to remove specific elements in a numpy array,0.010124805
+Sat May  2 08:38:19 2020,144,Python time comparison,0.010412187
+Sat May  2 08:38:55 2020,145,django order_by query set, ascending and descending,0.011982116
+Sat May  2 08:39:27 2020,146,How to print number with commas as thousands separators?,0.008594019
+Sat May  2 08:40:05 2020,147,Behaviour of increment and decrement operators in Python,0.011285378
+Sat May  2 08:40:13 2020,148,Getting command-line password input in Python,0.013247336
+Sat May  2 08:40:45 2020,149,Is there a python equivalent of Ruby's 'rvm'?,0.012847577
+Sat May  2 08:41:20 2020,150,How are exceptions implemented under the hood?,0.0120797595
+Sat May  2 08:41:35 2020,151,Get IP address of visitors using Python + Flask,0.0136150345
+Sat May  2 08:42:29 2020,152,read subprocess stdout line by line,0.012405649
+Sat May  2 08:42:38 2020,153,How can I tell PyCharm what type a parameter is expected to be?,0.011215972
+Sat May  2 08:43:05 2020,154,Installing PyCrypto on Ubuntu - fatal error on build,0.008885805
+Sat May  2 08:43:14 2020,155,plotting results of hierarchical clustering ontop of a matrix of data in python,0.009838677
+Sat May  2 08:43:50 2020,156,Problems using psycopg2 on Mac OS (Yosemite),0.009474238
+Sat May  2 08:44:16 2020,157,Python subprocess.Popen "OSError: [Errno 12] Cannot allocate memory",0.012571148
+Sat May  2 08:44:38 2020,158,Batch Renaming of Files in a Directory,0.0108866105
+Sat May  2 08:45:05 2020,159,python split string based on regular expression,0.012139313
+Sat May  2 08:45:13 2020,160,How to print number with commas as thousands separators?,0.00862107
+Sat May  2 08:45:51 2020,161,Python [Errno 98] Address already in use,0.013199853
+Sat May  2 08:46:00 2020,162,How does one monkey patch a function in python?,0.011810013
+Sat May  2 08:46:31 2020,163,Get HTML Source of WebElement in Selenium WebDriver using Python,0.012803871
+Sat May  2 08:47:13 2020,164,catch specific HTTP error in python,0.0113942865
+Sat May  2 08:47:33 2020,165,Read and overwrite a file in Python,0.011233398
+Sat May  2 08:47:42 2020,166,python one-line list comprehension: if-else variants,0.011237956
+Sat May  2 08:48:33 2020,167,Python Performance - have you ever had to rewrite in something else?,0.009591801
+Sat May  2 08:48:42 2020,168,Python Pandas - How to flatten a hierarchical index in columns,0.01388728
+Sat May  2 08:49:20 2020,169,Error packaging Kivy with numpy library for Android using buildozer,0.011578978
+Sat May  2 08:49:29 2020,170,How to store data frame using PANDAS, Python,0.013095379
+Sat May  2 08:49:38 2020,171,Python, extract file name from path, no matter what the os/path format,0.012256911
+Sat May  2 08:49:47 2020,172,python nan and inf values,0.009404106
+Sat May  2 08:49:56 2020,173,How to determine whether a substring is in a different string,0.010731562
+Sat May  2 08:50:04 2020,174,Get key with the least value from a dictionary,0.012983018
+Sat May  2 08:50:31 2020,175,How to save a Python interactive session?,0.012128105
+Sat May  2 08:50:56 2020,176,Python: most idiomatic way to convert None to empty string?,0.01289768
+Sat May  2 08:51:26 2020,177,Which classes cannot be subclassed?,0.010520351
+Sat May  2 08:51:56 2020,178,Can I install Python windows packages into virtualenvs?,0.008746298
+Sat May  2 08:52:18 2020,179,gunicorn autoreload on source change,0.012500155
+Sat May  2 08:52:55 2020,180,Installing SetupTools on 64-bit Windows,0.010546359
+Sat May  2 08:53:21 2020,181,numpy: most efficient frequency counts for unique values in an array,0.009530903
+Sat May  2 08:53:53 2020,182,How to reliably guess the encoding between MacRoman, CP1252, Latin1, UTF-8, and ASCII,0.013058006
+Sat May  2 08:54:02 2020,183,Concatenating two lists - difference between '+=' and extend(),0.012480137
+Sat May  2 08:54:29 2020,184,How can I install the Python library 'gevent' on Mac OS X Lion,0.009624677
+Sat May  2 08:55:09 2020,185,python tuple to dict,0.008414514
+Sat May  2 08:55:18 2020,186,How to get week number in Python?,0.011085237
+Sat May  2 08:55:53 2020,187,Why are 0d arrays in Numpy not considered scalar?,0.013249981
+Sat May  2 08:56:30 2020,188,What is the most efficent way to store a list in the Django models?,0.011632759
+Sat May  2 08:56:51 2020,189,Seeking clarification on apparent contradictions regarding weakly typed languages,0.011494182
+Sat May  2 08:57:00 2020,190,if else in a list comprehension,0.008488019
+Sat May  2 08:57:16 2020,191,How to normalize a 2-dimensional numpy array in python less verbose?,0.012354631
+Sat May  2 08:57:48 2020,192,Why don't I get any syntax errors when I execute my Python script with Perl?,0.012412238
+Sat May  2 08:57:57 2020,193,How to pull a random record using Django's ORM?,0.01247733
+Sat May  2 08:58:31 2020,194,Linear regression with matplotlib / numpy,0.01371216
+Sat May  2 08:59:05 2020,195,Why does Python allow function calls with wrong number of arguments?,0.010614356
+Sat May  2 08:59:31 2020,196,numpy: access an array by column,0.011576807
+Sat May  2 09:00:10 2020,197,How to include package data with setuptools/distribute?,0.013683073
+Sat May  2 09:00:39 2020,198,What's the canonical way to check for type in python?,0.0097719
+Sat May  2 09:00:56 2020,199,Django - How to do tuple unpacking in a template 'for' loop,0.015364866
+Sat May  2 09:01:28 2020,200,Choosing Java vs Python on Google App Engine,0.010794187
+Sat May  2 09:01:49 2020,201,Why can't I use a list as a dict key in python?,0.013285068
+Sat May  2 09:02:34 2020,202,Python optparse Values Instance,0.008756479
+Sat May  2 09:03:10 2020,203,Search and replace a line in a file in Python,0.0143803675
+Sat May  2 09:03:41 2020,204,__getattr__ on a module,0.008191699
+Sat May  2 09:03:50 2020,205,Reloading submodules in IPython,0.011235317
+Sat May  2 09:04:34 2020,206,Reusable library to get human readable version of file size?,0.012649974
+Sat May  2 09:05:00 2020,207,python: getting user input,0.029122334
+Sat May  2 09:05:17 2020,208,Python Create unix timestamp five minutes in the future,0.010319136
+Sat May  2 09:05:38 2020,209,Can I use __init__.py to define global variables?,0.012217312
+Sat May  2 09:05:58 2020,210,plotting results of hierarchical clustering ontop of a matrix of data in python,0.009761451
+Sat May  2 09:06:33 2020,211,How to use inspect to get the caller's info from callee in Python?,0.012905602
+Sat May  2 09:07:15 2020,212,Python - how to refer to relative paths of resources when working with code repository,0.011343834
+Sat May  2 09:08:11 2020,213,foggy on asterisk in python,0.006941783
+Sat May  2 09:08:20 2020,214,Local variables in Python nested functions,0.014976824
+Sat May  2 09:08:52 2020,215,Conditional import of modules in Python,0.01291211
+Sat May  2 09:09:13 2020,216,Read large text files in Python, line by line without loading it in to memory,0.011923715
+Sat May  2 09:09:22 2020,217,Installing SciPy and NumPy using pip,0.0083544105
+Sat May  2 09:09:44 2020,218,Can modules have properties the same way that objects can?,0.011244023
+Sat May  2 09:10:16 2020,219,Compact way to assign values by slicing list in Python,0.010416586
+Sat May  2 09:11:03 2020,220,Is everything greater than None?,0.0113567505
+Sat May  2 09:11:12 2020,221,Python loop counter in a for loop,0.01057581
+Sat May  2 09:11:20 2020,222,How do I make python to wait for a pressed key,0.01103315
+Sat May  2 09:11:29 2020,223,hexadecimal string to byte array in python,0.012683868
+Sat May  2 09:12:12 2020,224,memory-efficient built-in SqlAlchemy iterator/generator?,0.011918053
+Sat May  2 09:12:27 2020,225,Checking whether a string starts with XXXX,0.0104625495
+Sat May  2 09:12:51 2020,226,How to "test" NoneType in python?,0.009953428
+Sat May  2 09:13:00 2020,227,Why does creating a list from a list make it larger?,0.013493243
+Sat May  2 09:13:21 2020,228,What is a metaclass in Python?,0.011585773
+Sat May  2 09:13:29 2020,229,Step-by-step debugging with IPython,0.0123357605
+Sat May  2 09:14:00 2020,230,Why is it slower to iterate over a small string than a small list?,0.008554126
+Sat May  2 09:14:27 2020,231,Importing a CSV file into a sqlite3 database table using Python,0.01250362
+Sat May  2 09:14:43 2020,232,list() uses more memory than list comprehension,0.012384854
+Sat May  2 09:15:14 2020,233,Nohup is not writing log to output file,0.0116057005
+Sat May  2 09:15:39 2020,234,Turn a string into a valid filename in Python,0.010928563
+Sat May  2 09:15:48 2020,235,Access python nested dictionary items via a list of keys,0.01197489
+Sat May  2 09:16:17 2020,236,MySQL "incorrect string value" error when save unicode string in Django,0.01425775
+Sat May  2 09:16:43 2020,237,When should Flask.g be used?,0.008765599
+Sat May  2 09:17:05 2020,238,How to get a complete list of object's methods and attributes?,0.011837959
+Sat May  2 09:17:14 2020,239,Print in terminal with colors using Python?,0.0070377057
+Sat May  2 09:17:55 2020,240,"Pretty" Continuous Integration for Python,0.024235776
+Sat May  2 09:18:04 2020,241,How do I fix 'ImportError: cannot import name IncompleteRead'?,0.012813386
+Sat May  2 09:18:42 2020,242,Python: removing characters except digits from string,0.013321496
+Sat May  2 09:19:13 2020,243,How to drop rows of Pandas dataframe whose value of certain column is NaN,0.011373201
+Sat May  2 09:19:34 2020,244,Find and list duplicates in Python list,0.010172883
+Sat May  2 09:19:51 2020,245,How Python web frameworks, WSGI and CGI fit together,0.012128777
+Sat May  2 09:20:15 2020,246,How can I check the syntax of Python script without executing it?,0.010111014
+Sat May  2 09:20:23 2020,247,Why is Python 3.x's super() magic?,0.009760293
+Sat May  2 09:20:33 2020,248,Why does tuple(set([1,"a","b","c","z","f"])) == tuple(set(["a","b","c","z","f",1])) 85% of the time with hash randomization enabled?,0.00984143
+Sat May  2 09:20:42 2020,249,fatal error: Python.h: No such file or directory,0.013011825
+Sat May  2 09:20:51 2020,250,What should I use instead of syncdb in Django 1.9?,0.013659307
+Sat May  2 09:21:17 2020,251,How to delete items from a dictionary while iterating over it?,0.011585958
+Sat May  2 09:21:26 2020,252,if or elif either true then do something,0.008349864
+Sat May  2 09:21:53 2020,253,Extending python - to swig, not to swig or Cython,0.011034119
+Sat May  2 09:22:34 2020,254,sqlite3.ProgrammingError: You must not use 8-bit bytestrings unless you use a text_factory that can interpret 8-bit bytestrings,0.014665696
+Sat May  2 09:23:26 2020,255,How to hide output of subprocess in Python 2.7,0.011119317
+Sat May  2 09:23:56 2020,256,How can I tell if a python variable is a string or a list?,0.012181611
+Sat May  2 09:24:13 2020,257,Reducing Django Memory Usage. Low hanging fruit?,0.0114119565
+Sat May  2 09:24:47 2020,258,Python Packages Offline Installation,0.011586576
+Sat May  2 09:25:16 2020,259,How to do exponential and logarithmic curve fitting in Python? I found only polynomial fitting,0.011574136
+Sat May  2 09:25:32 2020,260,Checking whether a string starts with XXXX,0.010356116
+Sat May  2 09:26:08 2020,261,Define a lambda expression that raises an Exception,0.013553684
+Sat May  2 09:26:28 2020,262,Split python string every nth character?,0.0073391404
+Sat May  2 09:26:45 2020,263,What's the best way to assert for numpy.array equality?,0.011614953
+Sat May  2 09:26:53 2020,264,Emulate a do-while loop in Python?,0.011273522
+Sat May  2 09:27:22 2020,265,How do I capture SIGINT in Python?,0.011834411
+Sat May  2 09:27:31 2020,266,Does Python have a ternary conditional operator?,0.01159522
+Sat May  2 09:27:40 2020,267,Python argparse ignore unrecognised arguments,0.014438799
+Sat May  2 09:27:48 2020,268,Catch multiple exceptions in one line (except block),0.011470139
+Sat May  2 09:27:57 2020,269,pip install: Please check the permissions and owner of that directory,0.011920292
+Sat May  2 09:28:06 2020,270,Set value for particular cell in pandas DataFrame,0.013236196
+Sat May  2 09:28:37 2020,271,Short Description of Scoping Rules,0.008803965
+Sat May  2 09:29:03 2020,272,How to replace the last occurence of an expression in a string,0.011174476
+Sat May  2 09:29:13 2020,273,Django - How to do tuple unpacking in a template 'for' loop,0.015457708
+Sat May  2 09:29:54 2020,274,Python 3.x rounding behavior,0.0084286025
+Sat May  2 09:30:03 2020,275,deciding among subprocess, multiprocessing, and thread in Python?,0.012451357
+Sat May  2 09:31:51 2020,276,python: How do I know what type of exception occured?,0.012724496
+Sat May  2 09:32:11 2020,277,When are .pyc files refreshed?,0.0118291145
+Sat May  2 09:32:20 2020,278,CSV in Python adding an extra carriage return,0.012566233
+Sat May  2 09:32:29 2020,279,How do I make python to wait for a pressed key,0.011026506
+Sat May  2 09:32:38 2020,280,How can I compare two lists in python and return matches,0.010939165
+Sat May  2 09:33:04 2020,281,Windows is not passing command line arguments to Python programs executed from the shell,0.0133189
+Sat May  2 09:33:43 2020,282,What does [:] in Python mean,0.008873571
+Sat May  2 09:33:52 2020,283,Is there a way to convert indentation in Python code to braces?,0.010548381
+Sat May  2 09:34:09 2020,284,What are WSGI and CGI in plain English?,0.011575925
+Sat May  2 09:34:29 2020,285,How do I integrate Ajax with Django applications?,0.01103162
+Sat May  2 09:34:45 2020,286,How do I get current URL in Selenium Webdriver 2 Python?,0.010869197
+Sat May  2 09:35:24 2020,287,Explicitly select items from a Python list or tuple,0.012780093
+Sat May  2 09:36:10 2020,288,Variables inside and outside of a class __init__() function,0.0132535035
+Sat May  2 09:36:26 2020,289,making matplotlib scatter plots from dataframes in Python's pandas,0.013520087
+Sat May  2 09:36:48 2020,290,Convert from ASCII string encoded in Hex to plain ASCII?,0.010809198
+Sat May  2 09:37:03 2020,291,Emulating Bash 'source' in Python,0.011449618
+Sat May  2 09:37:32 2020,292,Difference between map, applymap and apply methods in Pandas,0.010023995
+Sat May  2 09:37:40 2020,293,SQLite, python, unicode, and non-utf data,0.013086802
+Sat May  2 09:38:02 2020,294,Binary search (bisection) in Python,0.011583014
+Sat May  2 09:38:11 2020,295,Saving utf-8 texts in json.dumps as UTF8, not as \u escape sequence,0.011466895
+Sat May  2 09:38:48 2020,296,Catch Ctrl+C / SIGINT and exit multiprocesses gracefully in python,0.012595081
+Sat May  2 09:39:14 2020,297,Constantly print Subprocess output while process is running,0.012150872
+Sat May  2 09:39:23 2020,298,ImportError: No module named apiclient.discovery,0.011295561
+Sat May  2 09:39:32 2020,299,SQLAlchemy: What's the difference between flush() and commit()?,0.013939481
+Sat May  2 09:39:40 2020,300,Tabs versus spaces in Python programming,0.012418123
+Sat May  2 09:39:49 2020,301,Understanding the map function,0.010543362
+Sat May  2 09:40:20 2020,302,Automatically import modules when entering the python or ipython interpreter,0.0120563675
+Sat May  2 09:40:29 2020,303,Converting unix timestamp string to readable date in Python,0.01401124
+Sat May  2 09:40:50 2020,304,Getting key with maximum value in dictionary?,0.009341617
+Sat May  2 09:40:58 2020,305,ipython reads wrong python version,0.008906455
+Sat May  2 09:41:30 2020,306,Python exit commands - why so many and when should each be used?,0.009712382
+Sat May  2 09:41:45 2020,307,Dictionaries of dictionaries merge,0.0110629955
+Sat May  2 09:42:30 2020,308,Django ModelForm for Many-to-Many fields,0.013641131
+Sat May  2 09:42:47 2020,309,How to create a Python decorator that can be used either with or without parameters?,0.013471193
+Sat May  2 09:42:56 2020,310,Python append() vs. + operator on lists, why do these give different results?,0.011408594
+Sat May  2 09:43:29 2020,311,Django forms, inheritance and order of form fields,0.013484323
+Sat May  2 09:43:45 2020,312,differentiate null=True, blank=True in django,0.0139099965
+Sat May  2 09:44:17 2020,313,Properties file in python (similar to Java Properties),0.014873225
+Sat May  2 09:44:26 2020,314,Why is pow(a, d, n) so much faster than a**d % n?,0.011961277
+Sat May  2 09:44:48 2020,315,Generator Expressions vs. List Comprehension,0.011269525
+Sat May  2 09:44:57 2020,316,Python: removing duplicates from a list of lists,0.009981548
+Sat May  2 09:45:46 2020,317,Why does numpy.power return 0 for small exponents while math.pow returns the correct answer?,0.011404398
+Sat May  2 09:46:24 2020,318,How to empty a list in Python?,0.008144317
+Sat May  2 09:46:33 2020,319,Why does python use 'else' after for and while loops?,0.0108261
+Sat May  2 09:47:02 2020,320,How to open a file using the open with statement,0.01138494
+Sat May  2 09:47:10 2020,321,Java: Equivalent of Python's range(int, int)?,0.010926278
+Sat May  2 09:47:37 2020,322,Python When I catch an exception, how do I get the type, file, and line number?,0.013214547
+Sat May  2 09:47:45 2020,323,No Multiline Lambda in Python: Why not?,0.010126388
+Sat May  2 09:47:54 2020,324,Python - Convert UTC datetime string to local datetime,0.014610563
+Sat May  2 09:48:03 2020,325,XML parsing - ElementTree vs SAX and DOM,0.012373301
+Sat May  2 09:48:49 2020,326,Concatenate strings in python 2.4?,0.010818446
+Sat May  2 09:48:58 2020,327,Unit testing a python app that uses the requests library,0.01377112
+Sat May  2 09:49:31 2020,328,Problems installing python3 on RHEL,0.01178983
+Sat May  2 09:49:39 2020,329,Splitting on last delimiter in Python string?,0.014560257
+Sat May  2 09:50:22 2020,330,Convert DataFrame column type from string to datetime,0.010901235
+Sat May  2 09:51:14 2020,331,How can I count the occurrences of a list item in Python?,0.008138614
+Sat May  2 09:51:30 2020,332,How do greenlets work?,0.010318756
+Sat May  2 09:52:27 2020,333,How do I disable the security certificate check in Python requests,0.013142778
+Sat May  2 09:52:59 2020,334,Is there a visual profiler for Python?,0.010174402
+Sat May  2 09:53:52 2020,335,What's a good rate limiting algorithm?,0.009219735
+Sat May  2 09:54:01 2020,336,Consistenly create same random numpy array,0.0121073695
+Sat May  2 09:54:28 2020,337,What are the differences between the urllib, urllib2, and requests module?,0.011019357
+Sat May  2 09:54:49 2020,338,Python print on same line,0.018704886
+Sat May  2 09:55:05 2020,339,open read and close a file in 1 line of code,0.009183204
+Sat May  2 09:55:14 2020,340,Python: most idiomatic way to convert None to empty string?,0.011908628
+Sat May  2 09:55:35 2020,341,How to I disable and re-enable console logging in Python?,0.007840895
+Sat May  2 09:56:06 2020,342,python tuple comparison,0.011602823
+Sat May  2 09:56:22 2020,343,Python Packages Offline Installation,0.012336182
+Sat May  2 09:57:00 2020,344,should I call close() after urllib.urlopen()?,0.012186204
+Sat May  2 09:57:09 2020,345,How do I raise the same Exception with a custom message in Python?,0.014636879
+Sat May  2 09:57:39 2020,346,Best way to format integer as string with leading zeros?,0.0116585735
+Sat May  2 09:58:01 2020,347,import module from string variable,0.009857651
+Sat May  2 09:58:30 2020,348,Clear text from textarea with selenium,0.011202026
+Sat May  2 09:58:51 2020,349,How to dynamically compose an OR query filter in Django?,0.011016294
+Sat May  2 09:59:00 2020,350,Experience with using h5py to do analytical work on big data in Python?,0.010825146
+Sat May  2 09:59:40 2020,351,Python sets are not json serializable,0.011153965
+Sat May  2 09:59:49 2020,352,Haversine Formula in Python (Bearing and Distance between two GPS points),0.01145556
+Sat May  2 10:00:15 2020,353,What is the correct syntax for 'else if'?,0.010294412
+Sat May  2 10:00:24 2020,354,Can you step through python code to help debug issues?,0.010748
+Sat May  2 10:00:51 2020,355,Pythonic way to check if a list is sorted or not,0.00956522
+Sat May  2 10:01:17 2020,356,Print the full numpy array,0.009357215
+Sat May  2 10:01:26 2020,357,How do you set your pythonpath in an already-created virtualenv?,0.010035292
+Sat May  2 10:01:49 2020,358,Python When I catch an exception, how do I get the type, file, and line number?,0.013211658
+Sat May  2 10:02:05 2020,359,Python csv string to array,0.012480759
+Sat May  2 10:02:46 2020,360,Django: How to manage development and production settings?,0.015507003
+Sat May  2 10:03:18 2020,361,Python Date Comparisons,0.010232015
+Sat May  2 10:04:06 2020,362,Experience with using h5py to do analytical work on big data in Python?,0.010119147
+Sat May  2 10:25:53 2020,363,How do you log server errors on django sites,0.013048874
+Sat May  2 10:26:33 2020,364,How to sort a list of objects in Python, based on an attribute of the objects?,0.0097875595
+Sat May  2 10:27:16 2020,365,Is it pythonic to import inside functions?,0.010302117
+Sat May  2 10:27:25 2020,366,How to check if one of the following items is in a list?,0.010979636
+Sat May  2 10:27:56 2020,367,Hiding axis text in matplotlib plots,0.0071696653
+Sat May  2 10:28:05 2020,368,python: create a "with" block on several context managers,0.0131376935
+Sat May  2 10:28:13 2020,369,Constantly print Subprocess output while process is running,0.012096044
+Sat May  2 10:28:40 2020,370,Can't install PIL after Mac OS X 10.9,0.012064092
+Sat May  2 10:28:49 2020,371,Loading all modules in a folder in Python,0.00966684
+Sat May  2 10:29:06 2020,372,Python non-greedy regexes,0.010816494
+Sat May  2 10:29:30 2020,373,Is there a short contains function for lists?,0.009844153
+Sat May  2 10:29:39 2020,374,Python's equivalent of && in an if statement,0.011159536
+Sat May  2 10:29:55 2020,375,What is an efficent way of inserting thousands of records into an SQLite table using Django?,0.010952135
+Sat May  2 10:30:27 2020,376,Calculating a directory size using Python?,0.012516635
+Sat May  2 10:30:53 2020,377,Python hashable dicts,0.01056287
+Sat May  2 10:31:30 2020,378,Installing SciPy with pip,0.0075347824
+Sat May  2 10:31:38 2020,379,What is the ellipsis [...] in a Python list?,0.009595112
+Sat May  2 10:32:06 2020,380,Clear text from textarea with selenium,0.010136121
+Sat May  2 10:32:15 2020,381,How to install a module use pip for specific version of?,0.01010383
+Sat May  2 10:32:24 2020,382,Creating a singleton in Python,0.012716741
+Sat May  2 10:32:33 2020,383,Printing Lists as Tabular Data,0.011852325
+Sat May  2 10:33:23 2020,384,When should Flask.g be used?,0.008662519
+Sat May  2 10:33:53 2020,385,Python: removing duplicates from a list of lists,0.009817321
+Sat May  2 10:34:31 2020,386,Python sqlite3 and concurrency,0.013551564
+Sat May  2 10:34:39 2020,387,Hide all warnings in ipython,0.011676209
+Sat May  2 10:35:10 2020,388,how to install pip for python3 on mac os x,0.008474735
+Sat May  2 10:35:19 2020,389,What is the easiest way to remove all packages installed by pip?,0.010622764
+Sat May  2 10:35:35 2020,390,Cross-platform way of getting temp directory in Python,0.013110093
+Sat May  2 10:36:22 2020,391,Multicast in Python,0.012095582
+Sat May  2 10:37:07 2020,392,Duplicate virtualenv,0.008478789
+Sat May  2 10:37:29 2020,393,Iterating over a numpy array,0.0100071505
+Sat May  2 10:38:17 2020,394,Filters in Python,0.010049671
+Sat May  2 10:38:42 2020,395,Check if object is file-like in Python,0.011354828
+Sat May  2 10:39:29 2020,396,Python call function within class,0.012583353
+Sat May  2 10:39:38 2020,397,python decorators with parameters,0.011534441
+Sat May  2 10:39:46 2020,398,Converting unix timestamp string to readable date in Python,0.01401124
+Sat May  2 10:39:55 2020,399,How to continue a task when Fabric receives an error,0.010786918
+Sat May  2 10:40:22 2020,400,Matplotlib tight_layout() doesn't take into account figure suptitle,0.0135668805
+Sat May  2 10:40:49 2020,401,Standard way to create debian packages for distributing Python programs?,0.010467721
+Sat May  2 10:40:57 2020,402,Python xml ElementTree from a string source?,0.012653068
+Sat May  2 10:41:13 2020,403,How to check blas/lapack linkage in numpy/scipy?,0.01286012
+Sat May  2 10:41:33 2020,404,Conditional import of modules in Python,0.012131197
+Sat May  2 10:41:41 2020,405,Python CSV error: line contains NULL byte,0.013570357
+Sat May  2 10:41:50 2020,406,Currency formatting in Python,0.01049837
+Sat May  2 10:42:21 2020,407,Compiling Python,0.027252229
+Sat May  2 10:42:29 2020,408,Python - No handlers could be found for logger "OpenGL.error",0.013413521
+Sat May  2 10:42:38 2020,409,Pythonic way to combine FOR loop and IF statement,0.014342613
+Sat May  2 10:43:23 2020,410,Count occurrence of a character in a string,0.013941086
+Sat May  2 10:44:10 2020,411,What is the difference between static files and media files in Django?,0.013716877
+Sat May  2 10:44:29 2020,412,Python unittest - opposite of assertRaises?,0.010802371
+Sat May  2 10:44:38 2020,413,Error when creating a new text file with python?,0.012050096
+Sat May  2 10:45:25 2020,414,Is it bad to have my virtualenv directory inside my git repository?,0.011004337
+Sat May  2 10:45:58 2020,415,How do I verify that a string only contains letters, numbers, underscores and dashes?,0.01031553
+Sat May  2 10:46:40 2020,416,Django forms, inheritance and order of form fields,0.012707238
+Sat May  2 10:46:55 2020,417,Process list on Linux via Python,0.011521225
+Sat May  2 10:47:19 2020,418,String Formatting in Python 3,0.010020538
+Sat May  2 10:47:58 2020,419,How to create a TRIE in Python,0.0102290595
+Sat May  2 10:48:43 2020,420,Locking a file in Python,0.109188296
+Sat May  2 11:02:27 2020,421,What is the equivalent of php's print_r() in python?,0.010287304
+Sat May  2 11:03:00 2020,422,pass **kwargs argument to another function with **kwargs,0.012333424
+Sat May  2 11:03:09 2020,423,What's the Python function like sum() but for multiplication? product()?,0.010371632
+Sat May  2 11:03:18 2020,424,Correct way to pause Python program,0.009217742
+Sat May  2 11:03:26 2020,425,How to flush output of Python print?,0.011106248
+Sat May  2 11:04:00 2020,426,How is Lisp's read-eval-print loop different than Python's?,0.010029353
+Sat May  2 11:04:09 2020,427,Python time comparison,0.009322725
+Sat May  2 11:04:50 2020,428,Get the current git hash in a Python script,0.011738128
+Sat May  2 11:05:11 2020,429,Is it possible to forward-declare a function in Python?,0.009782121
+Sat May  2 11:05:21 2020,430,Automatically import modules when entering the python or ipython interpreter,0.012078437
+Sat May  2 11:05:30 2020,431,foggy on asterisk in python,0.00692473
+Sat May  2 11:05:56 2020,432,How do I create test and train samples from one dataframe with pandas?,0.012637
+Sat May  2 11:06:05 2020,433,Python: check if an object is a list or tuple (but not string),0.0142714195
+Sat May  2 11:06:33 2020,434,Python Time Seconds to h:m:s,0.011527924
+Sat May  2 11:06:42 2020,435,How can I parse a time string containing milliseconds in it with python?,0.0120438365
+Sat May  2 11:06:52 2020,436,How can I use Homebrew to install both Python 2 and 3 on Mac?,0.01244827
+Sat May  2 11:07:00 2020,437,Python logging: use milliseconds in time format,0.013671301
+Sat May  2 11:07:09 2020,438,Upgrading all packages with pip,0.012478164
+Sat May  2 11:07:55 2020,439,How do you configure Django for simple development and deployment?,0.00751722
+Sat May  2 11:08:04 2020,440,Saving a Numpy array as an image,0.009882673
+Sat May  2 11:08:39 2020,441,Performance comparison of Thrift, Protocol Buffers, JSON, EJB, other?,0.010321153
+Sat May  2 11:08:48 2020,442,How to generate dynamic (parametrized) unit tests in python?,0.011108875
+Sat May  2 11:08:56 2020,443,Why doesn't Python have a sign function?,0.01147298
+Sat May  2 11:09:44 2020,444,urllib2 and json,0.010147786
+Sat May  2 11:10:06 2020,445,Passing a dictionary to a function in python as keyword parameters,0.011818241
+Sat May  2 11:10:27 2020,446,Evaluating a mathematical expression in a string,0.01240515
+Sat May  2 11:11:14 2020,447,socket.shutdown vs socket.close,0.012923371
+Sat May  2 11:11:41 2020,448,Behaviour of increment and decrement operators in Python,0.011284627
+Sat May  2 11:11:50 2020,449,List comprehension without [ ] in Python,0.0105500305
+Sat May  2 11:11:58 2020,450,Data structure for maintaining tabular data in memory?,0.012290026
+Sat May  2 11:12:19 2020,451,Python read a single character from the user,0.011105387
+Sat May  2 11:12:46 2020,452,How do I split a multi-line string into multiple lines?,0.010114891
+Sat May  2 11:13:12 2020,453,Best programming aids for a quadriplegic programmer,0.007839445
+Sat May  2 11:13:38 2020,454,Getting random row through SQLAlchemy,0.011265651
+Sat May  2 11:13:47 2020,455,Python TypeError: not enough arguments for format string,0.013603176
+Sat May  2 11:14:07 2020,456,Plot logarithmic axes with matplotlib in python,0.011685388
+Sat May  2 11:14:17 2020,457,Check if a given key already exists in a dictionary and increment it,0.010401745
+Sat May  2 11:14:25 2020,458,Python strptime() and timezones?,0.011261848
+Sat May  2 11:14:56 2020,459,Convert a number range to another range, maintaining ratio,0.010492735
+Sat May  2 11:15:21 2020,460,Fastest way to convert a dict's keys & values from `unicode` to `str`?,0.012931959
+Sat May  2 11:15:53 2020,461,Is it pythonic to import inside functions?,0.010297863
+Sat May  2 11:16:18 2020,462,how to install pip for python3 on mac os x,0.008473285
+Sat May  2 11:16:44 2020,463,Which Python API should be used with Mongo DB and Django,0.013116106
+Sat May  2 11:16:53 2020,464,Why does '() is ()' return True when '[] is []' and '{} is {}' return False?,0.007915126
+Sat May  2 11:17:14 2020,465,Extend standard python logging, to include the line number where a log method was invoked,0.0106910905
+Sat May  2 11:17:45 2020,466,Get month name from number,0.012317952
+Sat May  2 11:18:01 2020,467,How to change plot background color?,0.01006688
+Sat May  2 11:18:10 2020,468,Communicating with a running python daemon,0.0141122695
+Sat May  2 11:18:42 2020,469,Python - Split Strings with Multiple Delimiters,0.01107574
+Sat May  2 11:18:51 2020,470,So what exactly does “from __future__ import barry_as_FLUFL” do?,0.00741534
+Sat May  2 11:18:59 2020,471,How to convert an int to a hex string?,0.011708727
+Sat May  2 11:19:08 2020,472,Python: Converting from ISO-8859-1/latin1 to UTF-8,0.010432795
+Sat May  2 11:19:17 2020,473,Get key with the least value from a dictionary,0.011909286
+Sat May  2 11:19:37 2020,474,What is the difference between encode/decode?,0.013668647
+Sat May  2 11:19:46 2020,475,How to check if a word is an English word with Python?,0.01300368
+Sat May  2 11:20:18 2020,476,python print end=' ',0.01091478
+Sat May  2 11:20:44 2020,477,Python - How do I pass a string into subprocess.Popen (using the stdin argument)?,0.013239396
+Sat May  2 11:21:26 2020,478,Convert int to ASCII and back in Python,0.0117908465
+Sat May  2 11:22:00 2020,479,Confusion between numpy, scipy, matplotlib and pylab,0.009729958
+Sat May  2 11:22:15 2020,480,How to empty a list in Python?,0.008470704
+Sat May  2 11:22:23 2020,481,Adding information to an exception?,0.012684863
+Sat May  2 11:22:51 2020,482,Is there a way to run Python on Android?,0.008956284
+Sat May  2 11:23:33 2020,483,How can I fill out a Python string with spaces?,0.010808039
+Sat May  2 11:23:57 2020,484,All permutations of a Windows license key,0.01019255
+Sat May  2 11:24:13 2020,485,Most lightweight way to create a random string and a random hexadecimal number,0.012017332
+Sat May  2 11:24:29 2020,486,How to fix "Attempted relative import in non-package" even with __init__.py,0.01439689
+Sat May  2 11:24:46 2020,487,How do I set the figure title and axes labels font size in Matplotlib?,0.0129626645
+Sat May  2 11:25:33 2020,488,Python Remove last 3 characters of a string,0.0083005
+Sat May  2 11:25:59 2020,489,Python: Run function from the command line,0.19301109
+Sat May  2 11:32:36 2020,490,Django equivalent of PHP's form value array/associative array,0.0138745075
+Sat May  2 11:33:06 2020,491,What is the relationship between virtualenv and pyenv?,0.008799469
+Sat May  2 11:33:37 2020,492,Good ways to sort a queryset? - Django,0.0103075355
+Sat May  2 11:33:45 2020,493,How to install psycopg2 with "pip" on Python?,0.0109605035
+Sat May  2 11:34:21 2020,494,How to clamp an integer to some range? (in Python),0.013491212
+Sat May  2 11:34:51 2020,495,Cannot kill Python script with Ctrl-C,0.009782755
+Sat May  2 11:35:23 2020,496,Error: That port is already in use.,0.009671542
+Sat May  2 11:35:55 2020,497,setting y-axis limit in matplotlib,0.11732374
+Sat May  2 11:40:12 2020,498,Why is [] faster than list()?,0.0094915945
+Sat May  2 11:40:21 2020,499,How to modify list entries during for loop?,0.01102205
+Sat May  2 11:40:29 2020,500,Is explicitly closing files important?,0.009581369
+Sat May  2 11:41:03 2020,501,Get MD5 hash of big files in Python,0.01029121
+Sat May  2 11:41:12 2020,502,Rolling or sliding window iterator in Python,0.013071072
+Sat May  2 11:41:38 2020,503,What is 'print' in Python?,0.010778223
+Sat May  2 11:42:00 2020,504,Metaclass multiple inheritance inconsistency,0.0123542305
+Sat May  2 11:42:08 2020,505,How to check Django version,0.0077620163
+Sat May  2 11:42:39 2020,506,Way to create multiline comments?,0.012427823
+Sat May  2 11:42:56 2020,507,Is there a way to convert indentation in Python code to braces?,0.010287146
+Sat May  2 11:43:16 2020,508,Basic http file downloading and saving to disk in python?,0.011953282
+Sat May  2 11:43:47 2020,509,Authenticating against active directory using python + ldap,0.011548482
+Sat May  2 11:44:36 2020,510,Why should we NOT use sys.setdefaultencoding("utf-8") in a py script?,0.013482396
+Sat May  2 11:44:44 2020,511,Sending mail via sendmail from python,0.00959624
+Sat May  2 11:45:15 2020,512,Python Access Data in Package Subdirectory,0.0115084555
+Sat May  2 11:45:24 2020,513,Pandas conditional creation of a series/dataframe column,0.01239699
+Sat May  2 11:45:32 2020,514,Python: Find newest file with .MP3 extension in directory,0.011663222
+Sat May  2 11:46:03 2020,515,What is the source code of the "this" module doing?,0.011308806
+Sat May  2 11:46:46 2020,516,Python loop counter in a for loop,0.010981202
+Sat May  2 11:46:54 2020,517,Variables inside and outside of a class __init__() function,0.0121789295
+Sat May  2 11:47:44 2020,518,Problems with pip install numpy - RuntimeError: Broken toolchain: cannot link a simple C program,0.014705206
+Sat May  2 11:48:00 2020,519,Why use sys.path.append(path) instead of sys.path.insert(1, path)?,0.010687777
+Sat May  2 11:48:31 2020,520,What's the difference between eval, exec, and compile in Python?,0.01030505
+Sat May  2 11:48:40 2020,521,Function parameter types in Python,0.01334337
+Sat May  2 11:49:19 2020,522,How to get POSTed json in Flask?,0.010004744
+Sat May  2 11:49:27 2020,523,Python creating a dictionary of lists,0.012820435
+Sat May  2 11:49:43 2020,524,Python version 2.6 required, which was not found in the registry,0.01018778
+Sat May  2 11:50:33 2020,525,Explaining Python's '__enter__' and '__exit__',0.007496242
+Sat May  2 11:50:42 2020,526,UnicodeDecodeError: 'ascii' codec can't decode byte 0xef in position 1,0.01420529
+Sat May  2 11:51:09 2020,527,Counterintuitive behaviour of int() in python,0.006238256
+Sat May  2 11:51:40 2020,528,How do I convert local time to UTC in Python?,0.009687681
+Sat May  2 11:51:48 2020,529,python-pandas and databases like mysql,0.012798044
+Sat May  2 11:51:57 2020,530,How to execute Python scripts in Windows?,0.00880278
+Sat May  2 11:52:06 2020,531,What does functools.wraps do?,0.011703662
+Sat May  2 11:52:15 2020,532,Is there a simple way to delete a list element by value in python?,0.012011253
+Sat May  2 11:52:24 2020,533,What's the idiomatic syntax for prepending to a short python list?,0.012043536
+Sat May  2 11:52:50 2020,534,Use cases for the 'setdefault' dict method,0.0132107055
+Sat May  2 11:53:36 2020,535,What is the difference between pip and conda?,0.010029784
+Sat May  2 11:53:45 2020,536,How do I resize an image using PIL and maintain its aspect ratio?,0.010373718
+Sat May  2 11:54:22 2020,537,Dictionaries of dictionaries merge,0.0109149525
+Sat May  2 11:54:31 2020,538,What is Ruby equivalent of Python's `s= "hello, %s. Where is %s?" % ("John","Mary")`,0.01013707
+Sat May  2 11:54:40 2020,539,Python - why use "self" in a class?,0.02637275
+Sat May  2 11:54:48 2020,540,How to update Python?,0.009632489
+Sat May  2 11:55:14 2020,541,Python: check if an object is a list or tuple (but not string),0.012640581
+Sat May  2 11:55:23 2020,542,Failed to install Python Cryptography package with PIP and setup.py,0.012536511
+Sat May  2 11:55:49 2020,543,How do I install Python packages on Windows?,0.010913118
+Sat May  2 11:56:21 2020,544,What will happen if I modify a Python script while it's running?,0.00986125
+Sat May  2 11:56:46 2020,545,How can I parse JSON in Google App Engine?,0.013089884
+Sat May  2 11:56:55 2020,546,Random is barely random at all?,0.0089352485
+Sat May  2 11:57:10 2020,547,python nan and inf values,0.009363913
+Sat May  2 11:57:41 2020,548,How to percent-encode URL parameters in Python?,0.012141891
+Sat May  2 11:57:50 2020,549,Efficient way to shift a list in python,0.01260792
+Sat May  2 11:58:07 2020,550,Finding the source code for built-in Python functions?,0.012726787
+Sat May  2 11:58:15 2020,551,Base 62 conversion,0.01127034
+Sat May  2 11:58:51 2020,552,Python date string to date object,0.013345514
+Sat May  2 11:59:00 2020,553,Cleanest and most Pythonic way to get tomorrow's date?,0.012525488
+Sat May  2 11:59:27 2020,554,When is del useful in python?,0.007504795
+Sat May  2 11:59:36 2020,555,"Large data" work flows using pandas,0.009105017
+Sat May  2 11:59:45 2020,556,How should I read a file line-by-line in Python?,0.009264625
+Sat May  2 11:59:53 2020,557,Python - how to refer to relative paths of resources when working with code repository,0.011263874
+Sat May  2 12:00:02 2020,558,Python optparse Values Instance,0.007541198
+Sat May  2 12:00:10 2020,559,Shared-memory objects in python multiprocessing,0.023232823
+Sat May  2 12:00:41 2020,560,What's the proper way to install pip, virtualenv, and distribute for Python?,0.013383538
+Sat May  2 12:01:19 2020,561,multiple django sites with apache & mod_wsgi,0.011037715
+Sat May  2 12:01:28 2020,562,Get key by value in dictionary,0.012361645
+Sat May  2 12:02:11 2020,563,Running single test from unittest.TestCase via command line,0.012644437
+Sat May  2 12:02:20 2020,564,Python: How to get the caller's method name in the called method?,0.011231931
+Sat May  2 12:02:29 2020,565,How do I point easy_install to vcvarsall.bat?,0.011785641
+Sat May  2 12:03:20 2020,566,How to find out the number of CPUs using python,0.013376763
+Sat May  2 12:03:42 2020,567,How can I make one python file run another?,0.008751109
+Sat May  2 12:03:51 2020,568,How to set target hosts in Fabric file,0.011371807
+Sat May  2 12:04:26 2020,569,Why is string's startswith slower than in?,0.011817151
+Sat May  2 12:04:35 2020,570,Reducing Django Memory Usage. Low hanging fruit?,0.010285982
+Sat May  2 12:04:44 2020,571,Stripping everything but alphanumeric chars from a string in Python,0.014552584
+Sat May  2 12:05:09 2020,572,What is the difference between 'log' and 'symlog'?,0.008918205
+Sat May  2 12:05:40 2020,573,Are lists thread-safe,0.01037532
+Sat May  2 12:06:05 2020,574,How can I parse JSON in Google App Engine?,0.013070599
+Sat May  2 12:06:14 2020,575,convert integer to a string in a given numeric base in python,0.012337419
+Sat May  2 12:06:54 2020,576,How can I iterate over files in a given directory?,0.014076818
+Sat May  2 12:07:03 2020,577,Counting the number of True Booleans in a Python List,0.009874142
+Sat May  2 12:07:12 2020,578,Python set to list,0.0099203475
+Sat May  2 12:07:37 2020,579,Assert a function/method was not called using Mock,0.013548798
+Sat May  2 12:07:46 2020,580,Install particular version with easy_install,0.010622422
+Sat May  2 12:07:54 2020,581,Text box with line wrapping in matplotlib?,0.013559266
+Sat May  2 12:08:03 2020,582,Creating a new corpus with NLTK,0.010501362
+Sat May  2 12:08:30 2020,583,Python regex matching Unicode properties,0.012585015
+Sat May  2 12:08:55 2020,584,Relative imports for the billionth time,0.008877103
+Sat May  2 12:09:04 2020,585,Should you always favor xrange() over range()?,0.012420689
+Sat May  2 12:09:13 2020,586,How to check if there exists a process with a given pid?,0.011538934
+Sat May  2 12:09:28 2020,587,Validate SSL certificates with Python,0.012865981
+Sat May  2 12:10:04 2020,588,How do I use the built in password reset/change views with my own templates,0.011235578
+Sat May  2 12:10:13 2020,589,Peak-finding algorithm for Python/SciPy,0.011983892
+Sat May  2 12:10:22 2020,590,ipython server can't launch: No module named notebook.notebookapp,0.011546525
+Sat May  2 12:10:31 2020,591,Get list from pandas DataFrame column headers,0.008639029
+Sat May  2 12:11:02 2020,592,Postgres: INSERT if does not exist already,0.012911431
+Sat May  2 12:11:18 2020,593,Wrap long lines in Python,0.00939582
+Sat May  2 12:11:48 2020,594,Python access to first element in dictionary,0.010099599
+Sat May  2 12:12:19 2020,595,How to check if an object is a generator object in python?,0.012628807
+Sat May  2 12:12:27 2020,596,Django database query: How to filter objects by date range?,0.015006406
+Sat May  2 12:12:36 2020,597,How to make an integer larger than any other integer?,0.012139343
+Sat May  2 12:12:59 2020,598,How to get a function name as a string in Python?,0.012605062
+Sat May  2 12:13:30 2020,599,Sending mail from Python using SMTP,0.010299957
+Sat May  2 12:13:38 2020,600,Can I use Python as a Bash replacement?,0.01089044
+Sat May  2 12:14:00 2020,601,Post JSON using Python Requests,0.013201446
+Sat May  2 12:14:21 2020,602,difference between datetime vs time modules,0.012876844
+Sat May  2 12:15:09 2020,603,Convert string date to timestamp in Python,0.010789248
+Sat May  2 12:15:18 2020,604,Understanding Generators in Python,0.011259342
+Sat May  2 12:15:44 2020,605,How do I get str.translate to work with Unicode strings?,0.013008119
+Sat May  2 12:15:53 2020,606,Using an SSH keyfile with Fabric,0.008565791
+Sat May  2 12:16:13 2020,607,Speed comparison with Project Euler: C vs Python vs Erlang vs Haskell,0.0068356628
+Sat May  2 12:16:45 2020,608,How references to variables are resolved in Python,0.011474914
+Sat May  2 12:16:54 2020,609,How do you retrieve items from a dictionary in the order that they're inserted?,0.010754058
+Sat May  2 12:17:03 2020,610,Pelican 3.3 pelican-quickstart error "ValueError: unknown locale: UTF-8",0.011367986
+Sat May  2 12:17:47 2020,611,Python thread pool similar to the multiprocessing Pool?,0.013765136
+Sat May  2 12:18:39 2020,612,Log to the base 2 in python,0.008668192
+Sat May  2 12:19:26 2020,613,Adding Python Path on Windows 7,0.008462291
+Sat May  2 12:19:42 2020,614,How do I force Django to ignore any caches and reload data?,0.012746016
+Sat May  2 12:19:50 2020,615,Does range() really create lists?,0.008484694
+Sat May  2 12:19:59 2020,616,Why aren't python nested functions called closures?,0.010367131
+Sat May  2 12:20:08 2020,617,How to get line count cheaply in Python?,0.011099561
+Sat May  2 12:20:17 2020,618,How to normalize a 2-dimensional numpy array in python less verbose?,0.012067962
+Sat May  2 12:20:25 2020,619,find nearest value in numpy array,0.012631448
+Sat May  2 12:20:34 2020,620,Tensorflow: How to restore a previously saved model (python),0.011006765
+Sat May  2 12:21:00 2020,621,Unit testing a python app that uses the requests library,0.012760484
+Sat May  2 12:21:15 2020,622,How do you unit test a Celery task?,0.009074445
+Sat May  2 12:21:41 2020,623,Fastest way to check if a value exist in a list,0.011610962
+Sat May  2 12:22:02 2020,624,How do I specify a single test in a file with nosetests?,0.010822109
+Sat May  2 12:22:18 2020,625,How can I get a list of locally installed Python modules?,0.0119053
+Sat May  2 12:22:47 2020,626,How do I run Selenium in Xvfb?,0.007103253
+Sat May  2 12:23:14 2020,627,Parsing XML with namespace in Python via 'ElementTree',0.02644764
+Sat May  2 12:23:23 2020,628,Why are there no ++ and --​ operators in Python?,0.010235743
+Sat May  2 12:23:58 2020,629,Double Iteration in List Comprehension,0.013100069
+Sat May  2 12:24:35 2020,630,Random strings in Python,0.011642408
+Sat May  2 12:25:02 2020,631,Returning the product of a list,0.011949982
+Sat May  2 12:25:11 2020,632,Django - what is the difference between render(), render_to_response() and direct_to_template()?,0.010660735
+Sat May  2 12:25:41 2020,633,Importing from builtin library when module with same name exists,0.010973617
+Sat May  2 12:26:12 2020,634,How to create a constant in Python,0.008214249
+Sat May  2 12:26:44 2020,635,How do I read two lines from a file at a time using python,0.011463555
+Sat May  2 12:27:11 2020,636,Python Virtualenv - No module named virtualenvwrapper.hook_loader,0.01274059
+Sat May  2 12:27:38 2020,637,Running Python on Windows for Node.js dependencies,0.009878024
+Sat May  2 12:27:59 2020,638,argparse module How to add option without any argument?,0.00840157
+Sat May  2 12:28:29 2020,639,What is for Python what 'explode' is for PHP?,0.011159957
+Sat May  2 12:28:38 2020,640,How to reset db in Django? I get a command 'reset' not found error,0.011529478
+Sat May  2 12:28:47 2020,641,How to convert 2D float numpy array to 2D int numpy array?,0.0129143195
+Sat May  2 12:29:20 2020,642,What is the difference between Python's re.search and re.match?,0.010064609
+Sat May  2 12:29:28 2020,643,Can't pickle <type 'instancemethod'> when using python's multiprocessing Pool.map(),0.015391839
+Sat May  2 12:30:13 2020,644,Catch a thread's exception in the caller thread in Python,0.0152433105
+Sat May  2 12:30:22 2020,645,Cannot find vcvarsall.bat when running a Python script,0.013311703
+Sat May  2 12:30:31 2020,646,How to divide flask app into multiple py files?,0.013157631
+Sat May  2 12:31:08 2020,647,Case insensitive 'in' - Python,0.008343061
+Sat May  2 12:31:34 2020,648,What do backticks mean to the python interpreter: `num`,0.011131999
+Sat May  2 12:32:06 2020,649,How to calculate the angle between a line and the horizontal axis?,0.12510245
+Sat May  2 21:15:04 2020,650,Using python's eval() vs. ast.literal_eval()?,0.009285894
+Sat May  2 21:15:24 2020,651,How to: reduce number of ticks with matplotlib,0.010791657
+Sat May  2 21:15:33 2020,652,Any gotchas using unicode_literals in Python 2.6?,0.0110455
+Sat May  2 21:15:59 2020,653,Python "SyntaxError: Non-ASCII character '\xe2' in file",0.008061064
+Sat May  2 21:16:30 2020,654,Very large matrices using Python and NumPy,0.014526411
+Sat May  2 21:17:14 2020,655,Rendering JSON objects using a Django template after an Ajax call,0.011890392
+Sat May  2 21:17:31 2020,656,So what exactly does “from __future__ import barry_as_FLUFL” do?,0.00741534
+Sat May  2 21:18:01 2020,657,Call a function with argument list in python,0.012036851
+Sat May  2 21:18:10 2020,658,When are .pyc files refreshed?,0.011828971
+Sat May  2 21:18:19 2020,659,ImportError: DLL load failed: %1 is not a valid Win32 application. But the DLL's are there,0.013356688
+Sat May  2 21:19:03 2020,660,Extending python - to swig, not to swig or Cython,0.012004285
+Sat May  2 21:19:29 2020,661,Convert DataFrame column type from string to datetime,0.010403625
+Sat May  2 21:19:37 2020,662,Convert date to datetime in Python,0.011378717
+Sat May  2 21:19:58 2020,663,Understanding repr( ) function in Python,0.008041951
+Sat May  2 21:20:19 2020,664,How do I mock an open used in a with statement (using the Mock framework in Python)?,0.013216361
+Sat May  2 21:20:29 2020,665,Process escape sequences in a string in Python,0.013138613
+Sat May  2 21:21:01 2020,666,Does PHP have an equivalent to Python's list comprehension syntax?,0.013097133
+Sat May  2 21:21:09 2020,667,Choosing Java vs Python on Google App Engine,0.008819113
+Sat May  2 21:21:39 2020,668,Adding new column to existing DataFrame in Python pandas,0.013486942
+Sat May  2 21:22:05 2020,669,How do I "cd" in Python?,0.011132613
+Sat May  2 21:22:13 2020,670,Remove all special characters, punctuation and spaces from string,0.014542758
+Sat May  2 21:22:39 2020,671,How can I make one python file run another?,0.008722345
+Sat May  2 21:23:04 2020,672,Convert a python 'type' object to a string,0.012710377
+Sat May  2 21:23:24 2020,673,How are booleans formatted in Strings in Python?,0.0125243785
+Sat May  2 21:23:40 2020,674,What is the most efficent way to store a list in the Django models?,0.01159846
+Sat May  2 21:23:49 2020,675,Remove all special characters, punctuation and spaces from string,0.014388255
+Sat May  2 21:24:45 2020,676,Weird Try-Except-Else-Finally behavior with Return statements,0.014256013
+Sat May  2 21:25:05 2020,677,How to normalize a 2-dimensional numpy array in python less verbose?,0.012107881
+Sat May  2 21:25:36 2020,678,Python: Removing \xa0 from string?,0.009252261
+Sat May  2 21:25:58 2020,679,Python: How to sort a list of dictionaries by several values?,0.010454997
+Sat May  2 21:26:37 2020,680,What's the idiomatic syntax for prepending to a short python list?,0.0113278
+Sat May  2 21:27:08 2020,681,How do I build a numpy array from a generator?,0.013197641
+Sat May  2 21:27:16 2020,682,How to create a constant in Python,0.00816066
+Sat May  2 21:27:25 2020,683,How to reliably guess the encoding between MacRoman, CP1252, Latin1, UTF-8, and ASCII,0.013313989
+Sat May  2 21:27:58 2020,684,How to find out if Python is compiled with UCS-2 or UCS-4?,0.012946243
+Sat May  2 21:28:32 2020,685,Python executable not finding libpython shared library,0.010923162
+Sat May  2 21:28:52 2020,686,Reading binary file in Python and looping over each byte,0.011725361
+Sat May  2 21:29:08 2020,687,Way to create multiline comments?,0.012863881
+Sat May  2 21:29:35 2020,688,Python group by,0.00747815
+Sat May  2 21:29:44 2020,689,Filter by property,0.011893009
+Sat May  2 21:29:52 2020,690,How to properly use unit-testing's assertRaises() with NoneType objects?,0.011869249
+Sat May  2 21:30:01 2020,691,Set variable in jinja,0.011210522
+Sat May  2 21:30:28 2020,692,Lexical closures in Python,0.010766518
+Sat May  2 21:30:37 2020,693,How to install python3 version of package via pip on Ubuntu?,0.036976475
+Sat May  2 21:30:59 2020,694,How to do relative imports in Python?,0.011704223
+Sat May  2 21:31:30 2020,695,list() uses more memory than list comprehension,0.010957904
+Sat May  2 21:31:39 2020,696,Read file from line 2 or skip header row,0.010268026
+Sat May  2 21:31:47 2020,697,How to get a value from a cell of a data frame?,0.013602184
+Sat May  2 21:32:18 2020,698,Line continuation for list comprehensions or generator expressions in python,0.008963632
+Sat May  2 21:32:27 2020,699,How do you get the logical xor of two variables in Python?,0.012974421
+Sat May  2 21:32:36 2020,700,What is the purpose of the colon before a block in Python?,0.009220375
+Sat May  2 21:33:02 2020,701,Is it ok to use dashes in Python files when trying to import them?,0.011415672
+Sat May  2 21:33:45 2020,702,django-rest-framework 3.0 create or update in nested serializer,0.013833673
+Sat May  2 21:34:00 2020,703,Preserving signatures of decorated functions,0.011329112
+Sat May  2 21:34:48 2020,704,How to get only the last part of a path in Python?,0.014358525
+Sat May  2 21:34:58 2020,705,open read and close a file in 1 line of code,0.009353788
+Sat May  2 21:35:18 2020,706,Having Django serve downloadable files,0.012523094
+Sat May  2 21:35:27 2020,707,MySQL "incorrect string value" error when save unicode string in Django,0.013187111
+Sat May  2 21:36:06 2020,708,Deep copy of a dict in python,0.0103687495
+Sat May  2 21:36:15 2020,709,Why is there no tuple comprehension in Python?,0.011632148
+Sat May  2 21:36:53 2020,710,append new row to old csv file python,0.012880577
+Sat May  2 21:37:02 2020,711,Crop the image using PIL in python,0.008336745
+Sat May  2 21:37:10 2020,712,What is the purpose of self in Python?,0.025165457
+Sat May  2 21:37:41 2020,713,Longest equally-spaced subsequence,0.013682246
+Sat May  2 21:37:50 2020,714,Vim, Python, and Django autocompletion (pysmell?),0.010775097
+Sat May  2 21:38:11 2020,715,pip: dealing with multiple Python versions?,0.009754693
+Sat May  2 21:38:19 2020,716,Joining List has integer values with python,0.010242379
+Sat May  2 21:38:28 2020,717,Best way to format integer as string with leading zeros?,0.01082554
+Sat May  2 21:38:37 2020,718,Matplotlib different size subplots,0.012953529
+Sat May  2 21:38:45 2020,719,Retrieving the output of subprocess.call(),0.0121116275
+Sat May  2 21:39:21 2020,720,pip install gives error: Unable to find vcvarsall.bat,0.012665999
+Sat May  2 21:39:51 2020,721,Define css class in django Forms,0.012711299
+Sat May  2 21:40:07 2020,722,How to get the seconds since epoch from the time + date output of gmtime() in Python?,0.011612996
+Sat May  2 21:40:23 2020,723,Running python script inside ipython,0.19106528
+Sat May  2 22:25:03 2020,724,Python progression path - From apprentice to guru,0.009792137
+Sat May  2 22:25:12 2020,725,Why use Abstract Base Classes in Python?,0.013755146
+Sat May  2 22:25:42 2020,726,Python Sets vs Lists,0.008513343
+Sat May  2 22:26:31 2020,727,How do I get 'real-time' information back from a subprocess.Popen in python (2.5),0.011666276
+Sat May  2 22:26:40 2020,728,Is there any way to use pythonappend with SWIG's new builtin feature?,0.010324065
+Sat May  2 22:27:11 2020,729,How to move a file in Python,0.011281337
+Sat May  2 22:27:19 2020,730,Failed loading english.pickle with nltk.data.load,0.012613705
+Sat May  2 22:27:45 2020,731,How to sort (list/tuple) of lists/tuples?,0.010153636
+Sat May  2 22:27:54 2020,732,Does python support multiprocessor/multicore programming?,0.012090598
+Sat May  2 22:28:03 2020,733,How can I tell if a string repeats itself in Python?,0.01284781
+Sat May  2 22:28:12 2020,734,Django forms, inheritance and order of form fields,0.012458178
+Sat May  2 22:28:21 2020,735,"Cloning" row or column vectors,0.008723285
+Sat May  2 22:28:29 2020,736,Associativity of "in" in Python?,0.013106545
+Sat May  2 22:29:02 2020,737,Difference between abstract class and interface in Python,0.009802676
+Sat May  2 22:29:11 2020,738,Python - How to declare and add items to an array?,0.008664014
+Sat May  2 22:29:20 2020,739,Python: Why is functools.partial necessary?,0.010852296
+Sat May  2 22:29:28 2020,740,execfile with argument in python shell,0.0090190135
+Sat May  2 22:29:44 2020,741,How can you use Python in Vim?,0.19787127
+Sat May  2 22:48:05 2020,742,Pointers in Python?,0.014903589
+Sat May  2 22:48:28 2020,743,Python: Extract numbers from a string,0.01430692
+Sat May  2 22:49:00 2020,744,Displaying better error message than "No JSON object could be decoded",0.014016594
+Sat May  2 22:49:08 2020,745,Python sqlite3 and concurrency,0.013519071
+Sat May  2 22:49:58 2020,746,How can I create a copy of an object in Python?,0.012603335
+Sat May  2 22:50:07 2020,747,How to find if directory exists in Python,0.009384402
+Sat May  2 22:50:15 2020,748,Explain Python's slice notation,0.030441998
+Sat May  2 22:50:46 2020,749,Get Last Day of the Month in Python,0.010354264
+Sat May  2 22:50:55 2020,750,How to get first element in a list of tuples?,0.01144114
+Sat May  2 22:51:12 2020,751,Clearing Python lists,0.009905442
+Sat May  2 22:51:21 2020,752,Is it worth using Python's re.compile?,0.010057482
+Sat May  2 22:51:37 2020,753,CURL alternative in Python,0.010614045
+Sat May  2 22:51:57 2020,754,django templates: include and extends,0.015767436
+Sat May  2 22:52:28 2020,755,How to get MD5 sum of a string?,0.011324231
+Sat May  2 22:53:03 2020,756,Why values of an OrderedDict are not equal?,0.011195676
+Sat May  2 22:53:11 2020,757,Python os.path.join on Windows,0.013686277
+Sat May  2 22:53:20 2020,758,How to read a file line by line into a list with Python,0.012415789
+Sat May  2 22:53:29 2020,759,Are lists thread-safe,0.009777283
+Sat May  2 22:53:49 2020,760,Relative paths in Python,0.012855155
+Sat May  2 22:53:58 2020,761,AttributeError: 'module' object has no attribute 'urlopen',0.010204252
+Sat May  2 22:54:13 2020,762,How to debug in Django, the good way?,0.010393472
+Sat May  2 22:54:22 2020,763,Best way to integrate Python and JavaScript?,0.01229632
+Sat May  2 22:54:31 2020,764,Code for Greatest Common Divisor in Python,0.012800703
+Sat May  2 22:55:18 2020,765,Printing Python version in output,0.011869863
+Sat May  2 22:55:27 2020,766,Experience with using h5py to do analytical work on big data in Python?,0.010222636
+Sat May  2 22:55:47 2020,767,Best way to convert string to bytes in Python 3?,0.009460703
+Sat May  2 22:55:56 2020,768,How can I create a copy of an object in Python?,0.012603335
+Sat May  2 22:56:38 2020,769,Python thread pool similar to the multiprocessing Pool?,0.0133170495
+Sat May  2 22:56:47 2020,770,How can you get the SSH return code using Paramiko?,0.011567636
+Sat May  2 22:57:17 2020,771,Install particular version with easy_install,0.010549308
+Sat May  2 22:57:36 2020,772,How to dynamically load a Python class,0.012029687
+Sat May  2 22:57:45 2020,773,How to define two-dimensional array in python,0.16021965
+Sat May  2 23:19:23 2020,774,String slugification in Python,0.01144427
+Sat May  2 23:19:40 2020,775,Python: The _imagingft C module is not installed,0.013488256
+Sat May  2 23:19:49 2020,776,PyPy -- How can it possibly beat CPython?,0.008294916
+Sat May  2 23:20:04 2020,777,Python: Converting from ISO-8859-1/latin1 to UTF-8,0.010432795
+Sat May  2 23:20:13 2020,778,Can I use Python as a Bash replacement?,0.010788889
+Sat May  2 23:20:22 2020,779,What does enumerate mean?,0.004929353
+Sat May  2 23:20:31 2020,780,How do I convert a numpy array to (and display) an image?,0.0115925735
+Sat May  2 23:20:47 2020,781,Using global variables between files?,0.012322386
+Sat May  2 23:21:03 2020,782,Best way to generate random file names in Python,0.011829568
+Sat May  2 23:21:11 2020,783,Why is string's startswith slower than in?,0.012186835
+Sat May  2 23:21:40 2020,784,pretty printing nested dictionaries in Python?,0.01112206
+Sat May  2 23:22:19 2020,785,Python: most pythonic way to check if an object is a number,0.011979891
+Sat May  2 23:22:28 2020,786,How to create an empty R vector to add new items,0.010464052
+Sat May  2 23:22:48 2020,787,ImportError: Cannot import name X,0.012559438
+Sat May  2 23:23:20 2020,788,How do I write to the console in Google App Engine?,0.010807899
+Sat May  2 23:23:56 2020,789,How does zip(*[iter(s)]*n) work in Python?,0.011865144
+Sat May  2 23:24:23 2020,790,Python configuration file: Any file format recommendation? INI format still appropriate? Seems quite old school,0.011110561
+Sat May  2 23:24:31 2020,791,Where to set maximum line length in pycharm,0.031255633
+Sat May  2 23:26:03 2020,792,What is for Python what 'explode' is for PHP?,0.010930872
+Sat May  2 23:26:33 2020,793,Proxies with Python 'Requests' module,0.011220716
+Sat May  2 23:27:16 2020,794,How to state in requirements.txt a direct github source,0.012192328
+Sat May  2 23:27:25 2020,795,Python: How do I get a reference to a module inside the module itself?,0.011040989
+Sat May  2 23:27:34 2020,796,Installing MySQL-python,0.01941587
+Sat May  2 23:27:53 2020,797,So what exactly does “from __future__ import barry_as_FLUFL” do?,0.00712145
+Sat May  2 23:28:08 2020,798,Python decorators in classes,0.010066499
+Sat May  2 23:29:02 2020,799,How is set() implemented?,0.010036047
+Sat May  2 23:29:10 2020,800,Python list subtraction operation,0.013010042
+Sat May  2 23:29:19 2020,801,UnicodeDecodeError: 'utf8' codec can't decode byte 0x9c,0.015376032
+Sat May  2 23:30:00 2020,802,AttributeError: 'module' object has no attribute,0.012639532
+Sat May  2 23:30:26 2020,803,Converting between datetime, Timestamp and datetime64,0.0135131795
+Sat May  2 23:30:35 2020,804,What is the difference between encode/decode?,0.013668647
+Sat May  2 23:30:43 2020,805,Django authentication and Ajax - URLs that require login,0.012255513
+Sat May  2 23:31:22 2020,806,How do I remove a substring from the end of a string in Python?,0.012313056
+Sat May  2 23:31:59 2020,807,PIL /JPEG Library / Help!,0.01237561
+Sat May  2 23:32:45 2020,808,How do I randomly select an item from a list using Python?,0.009340866
+Sat May  2 23:33:07 2020,809,How do I remove the first Item from a Python list?,0.011983736
+Sat May  2 23:33:16 2020,810,Read first N lines of a file in python,0.009486271
+Sat May  2 23:33:38 2020,811,How can I explicitly free memory in Python?,0.010402372
+Sat May  2 23:33:48 2020,812,What is the difference between Python and IPython?,0.008762299
+Sat May  2 23:34:09 2020,813,Python: How to get a value of datetime.today() that is "timezone aware"?,0.011668828
+Sat May  2 23:34:42 2020,814,Catch multiple exceptions in one line (except block),0.011497028
+Sat May  2 23:34:58 2020,815,How to convert an integer to the shortest url-safe string in Python?,0.012002064
+Sat May  2 23:35:19 2020,816,Reading/parsing Excel (xls) files with Python,0.010669724
+Sat May  2 23:35:28 2020,817,How do I verify that a string only contains letters, numbers, underscores and dashes?,0.010245429
+Sat May  2 23:35:37 2020,818,Most elegant way to check if the string is empty in Python?,0.012308371
+Sat May  2 23:36:05 2020,819,Excluding directories in os.walk,0.011068651
+Sat May  2 23:36:14 2020,820,How to I disable and re-enable console logging in Python?,0.009242907
+Sat May  2 23:36:45 2020,821,What do the python file extensions, .pyc .pyd .pyo stand for?,0.010540415
+Sat May  2 23:36:53 2020,822,How to trace the path in a Breadth-First Search?,0.011831216
+Sat May  2 23:37:02 2020,823,are there dictionaries in javascript like python?,0.010270676
+Sat May  2 23:37:11 2020,824,How to create a density plot in matplotlib?,0.014065822
+Sat May  2 23:37:44 2020,825,Installing SciPy with pip,0.09722591
+Sat May  2 23:38:15 2020,826,Matplotlib: How to put individual tags for a scatter plot,0.009294748
+Sat May  2 23:38:43 2020,827,Access python nested dictionary items via a list of keys,0.009884752
+Sat May  2 23:38:52 2020,828,method of iterating over sqlalchemy model's defined columns?,0.014758822
+Sat May  2 23:39:01 2020,829,Why do you need to create a cursor when querying a sqlite database?,0.011253312
+Sat May  2 23:39:10 2020,830,Python object.__repr__(self) should be an expression?,0.011420969
+Sat May  2 23:39:18 2020,831,String concatenation without '+' operator in python,0.01019502
+Sat May  2 23:39:27 2020,832,Example use of "continue" statement in Python?,0.011784696
+Sat May  2 23:39:36 2020,833,Turn a string into a valid filename in Python,0.010935005
+Sat May  2 23:39:45 2020,834,How do I access the child classes of an object in django without knowing the name of the child class?,0.009596891
+Sat May  2 23:40:06 2020,835,How to send a "multipart/form-data" with requests in python?,0.014951
+Sat May  2 23:40:15 2020,836,How to filter a dictionary according to an arbitrary condition function?,0.011486913
+Sat May  2 23:40:24 2020,837,Select rows from a DataFrame based on values in a column in pandas,0.014500078
+Sat May  2 23:40:50 2020,838,Matplotlib: How to put individual tags for a scatter plot,0.009226343
+Sat May  2 23:41:07 2020,839,How to create a new datebase(named xx.db) using python and sqlite3,0.009453379
+Sat May  2 23:41:16 2020,840,How can I read a function's signature including default argument values?,0.011976341
+Sat May  2 23:41:45 2020,841,Checking file extension,0.010275486
+Sat May  2 23:42:05 2020,842,List of tables, db schema, dump etc using the Python sqlite3 API,0.012208161
+Sat May  2 23:42:14 2020,843,Creating a range of dates in Python,0.007703077
+Sat May  2 23:42:56 2020,844,Python: Convert Unicode to ASCII without errors,0.013466079
+Sat May  2 23:43:13 2020,845,How to declare an array in Python?,0.011539393
+Sat May  2 23:43:47 2020,846,AttributeError: 'module' object has no attribute,0.013292284
+Sat May  2 23:44:39 2020,847,How to check a string for specific characters?,0.013716318
+Sat May  2 23:45:10 2020,848,Why does tuple(set([1,"a","b","c","z","f"])) == tuple(set(["a","b","c","z","f",1])) 85% of the time with hash randomization enabled?,0.00978826
+Sat May  2 23:45:40 2020,849,Easiest way to rm -rf in Python,0.008973656
+Sat May  2 23:45:56 2020,850,Reclassing an instance in Python,0.011873201
+Sat May  2 23:46:29 2020,851,Django Query That Get Most Recent Objects From Different Categories,0.014531177
+Sat May  2 23:46:37 2020,852,Flask-SQLAlchemy import/context issue,0.01042729
+Sat May  2 23:46:46 2020,853,Command Line Arguments In Python,0.07131854
+Sat May  2 23:47:13 2020,854,How to drop rows of Pandas dataframe whose value of certain column is NaN,0.011547919
+Sat May  2 23:47:22 2020,855,Does Flask support regular expressions in its URL routing?,0.01200756
+Sat May  2 23:47:30 2020,856,Customize/remove Django select box blank option,0.012809896
+Sat May  2 23:47:39 2020,857,In Python, if I return inside a "with" block, will the file still close?,0.009390237
+Sat May  2 23:47:48 2020,858,Python sets are not json serializable,0.011104029
+Sat May  2 23:48:35 2020,859,psycopg2: insert multiple rows with one query,0.012983141
+Sat May  2 23:48:51 2020,860,What does functools.wraps do?,0.011634883
+Sat May  2 23:49:11 2020,861,Understanding kwargs in Python,0.009235586
+Sat May  2 23:49:42 2020,862,How to make an immutable object in Python?,0.009241899
+Sat May  2 23:50:16 2020,863,How to check if a directory exists and create it if necessary?,0.01439215
+Sat May  2 23:50:25 2020,864,Redirect stdout to a file in Python?,0.008278633
+Sat May  2 23:50:34 2020,865,Why does assigning to an empty list (e.g. [] = "") raise no error?,0.012576796
+Sat May  2 23:50:54 2020,866,IOError: request data read error,0.012421943
+Sat May  2 23:51:02 2020,867,Difference between abstract class and interface in Python,0.008952601
+Sat May  2 23:51:28 2020,868,How do you serialize a model instance in Django?,0.010518059
+Sat May  2 23:52:14 2020,869,Properties file in python (similar to Java Properties),0.012353225
+Sat May  2 23:52:23 2020,870,Tuple unpacking order changes values assigned,0.009667813
+Sat May  2 23:52:43 2020,871,read subprocess stdout line by line,0.011767488
+Sat May  2 23:53:28 2020,872,No module named _sqlite3,0.012812601
+Sat May  2 23:53:36 2020,873,Pandas count(distinct) equivalent,0.011690689
+Sat May  2 23:54:09 2020,874,Empty set literal in Python?,0.010227658
+Sat May  2 23:54:18 2020,875,How to check file size in python?,0.010625908
+Sat May  2 23:54:49 2020,876,Safest way to convert float to integer in python?,0.010307186
+Sat May  2 23:55:19 2020,877,In Python how should I test if a variable is None, True or False,0.0076996055
+Sat May  2 23:55:50 2020,878,Fastest way to get the first object from a queryset in django?,0.012658436
+Sat May  2 23:56:16 2020,879,Detect & Record Audio in Python,0.007804621
+Sat May  2 23:56:25 2020,880,How can I use Python for large scale development?,0.009425019
+Sat May  2 23:56:33 2020,881,What is a "slug" in Django?,0.008181606
+Sat May  2 23:56:42 2020,882,Reading/writing to google docs/spreadsheets with Python,0.009755326
+Sat May  2 23:56:51 2020,883,efficient circular buffer?,0.013125166
+Sat May  2 23:57:35 2020,884,Why does Python's __import__ require fromlist?,0.009280087
+Sat May  2 23:58:01 2020,885,open file for both reading and writing?,0.010535053
+Sat May  2 23:58:10 2020,886,Python Pandas - How to flatten a hierarchical index in columns,0.013555845
+Sat May  2 23:58:18 2020,887,python 3.5: TypeError: a bytes-like object is required, not 'str',0.012863505
+Sat May  2 23:58:27 2020,888,Python normal arguments vs. keyword arguments,0.011233792
+Sat May  2 23:58:58 2020,889,Can I force pip to reinstall the current version?,0.011866746
+Sat May  2 23:59:07 2020,890,Django Setup Default Logging,0.012672814
+Sat May  2 23:59:15 2020,891,Does SQLAlchemy have an equivalent of Django's get_or_create?,0.013255362
+Sat May  2 23:59:47 2020,892,Is False == 0 and True == 1 in Python an implementation detail or is it guaranteed by the language?,0.010665011
+Sun May  3 00:00:07 2020,893,import module from string variable,0.009764367
+Sun May  3 00:00:16 2020,894,Modern, high performance bloom filter in Python?,0.010807491
+Sun May  3 00:00:25 2020,895,Exiting from python Command Line,0.011591086
+Sun May  3 00:00:33 2020,896,What is the difference between 'log' and 'symlog'?,0.008874147
+Sun May  3 00:00:42 2020,897,best way to extract subset of key-value pairs from python dictionary object,0.013073639
+Sun May  3 00:01:09 2020,898,How do I fix 'ImportError: cannot import name IncompleteRead'?,0.013280194
+Sun May  3 00:01:39 2020,899,How to convert strings into integers in Python?,0.011673653
+Sun May  3 00:02:03 2020,900,Generating file to download with Django,0.011342062
+Sun May  3 00:02:24 2020,901,Difference between the built-in pow() and math.pow() for floats, in Python?,0.012604141
+Sun May  3 00:02:55 2020,902,Outputting data from unit test in python,0.012223982
+Sun May  3 00:03:11 2020,903,HTTP requests and JSON parsing in Python,0.014211674
+Sun May  3 00:03:20 2020,904,How can I consume a WSDL (SOAP) web service in Python?,0.009078618
+Sun May  3 00:03:42 2020,905,Generate random integers between 0 and 9,0.012658148
+Sun May  3 00:03:51 2020,906,Compact way of writing (a + b == c or a + c == b or b + c == a),0.007048207
+Sun May  3 00:04:17 2020,907,python argh/argparse: How can I pass a list as a command-line argument?,0.01111887
+Sun May  3 00:04:47 2020,908,How to trim whitespace (including tabs)?,0.010393408
+Sun May  3 00:05:19 2020,909,How to make urllib2 requests through Tor in Python?,0.01299856
+Sun May  3 00:05:43 2020,910,Python argparse and bash completion,0.012418148
+Sun May  3 00:05:52 2020,911,Printing without newline (print 'a',) prints a space, how to remove?,0.011059423
+Sun May  3 00:06:25 2020,912,Sort a Python dictionary by value,0.012216104
+Sun May  3 00:06:34 2020,913,How to remove specific element in an array using python,0.012157902
+Sun May  3 00:07:01 2020,914,Why does assigning to an empty list (e.g. [] = "") raise no error?,0.013285006
+Sun May  3 00:07:48 2020,915,Simple Python Challenge: Fastest Bitwise XOR on Data Buffers,0.014640923
+Sun May  3 00:08:40 2020,916,How does Django Know the Order to Render Form Fields?,0.011994534
+Sun May  3 00:08:49 2020,917,How does numpy.histogram() work?,0.009425345
+Sun May  3 00:09:16 2020,918,ImportError: cannot import name HTTPSHandler using PIP,0.013263693
+Sun May  3 00:09:51 2020,919,How do Python's any and all functions work?,0.00891577
+Sun May  3 00:10:18 2020,920,How to execute multi-line statements within Python's own debugger (PDB),0.012377154
+Sun May  3 00:10:57 2020,921,How can I see normal print output created during pytest run?,0.011324711
+Sun May  3 00:11:07 2020,922,String slugification in Python,0.009857962
+Sun May  3 00:11:41 2020,923,Python: removing characters except digits from string,0.012913052
+Sun May  3 00:11:51 2020,924,Adding a Method to an Existing Object Instance,0.013505046
+Sun May  3 00:12:18 2020,925,input() error - NameError: name '...' is not defined,0.013185467
+Sun May  3 00:12:27 2020,926,How to list only top level directories in Python?,0.011004659
+Sun May  3 00:12:36 2020,927,What is causing ImportError: No module named pkg_resources after upgrade of Python on os X?,0.0140069295
+Sun May  3 00:12:56 2020,928,Django: multiple models in one template using forms,0.015007321
+Sun May  3 00:13:05 2020,929,How to fix "Attempted relative import in non-package" even with __init__.py,0.013013015
+Sun May  3 00:13:14 2020,930,How to use MinGW's gcc compiler when installing Python package using Pip?,0.0136963045
+Sun May  3 00:13:23 2020,931,python one-line list comprehension: if-else variants,0.011564492
+Sun May  3 00:13:32 2020,932,On linux SUSE or RedHat, how do I load Python 2.7,0.009172871
+Sun May  3 00:14:07 2020,933,What is an alternative to execfile in Python 3.0?,0.011474374
+Sun May  3 00:14:15 2020,934,Does python have a sorted list?,0.009471131
+Sun May  3 00:14:31 2020,935,How do I write to the console in Google App Engine?,0.010168016
+Sun May  3 00:14:40 2020,936,Does Python optimize tail recursion?,0.010345571
+Sun May  3 00:14:49 2020,937,open read and close a file in 1 line of code,0.008788914
+Sun May  3 00:15:05 2020,938,Why does python use two underscores for certain things?,0.019401157
+Sun May  3 00:15:16 2020,939,Use numpy array in shared memory for multiprocessing,0.01497682
+Sun May  3 00:15:47 2020,940,ImportError: matplotlib requires dateutil,0.011647118
+Sun May  3 00:15:56 2020,941,Redirecting stdout to "nothing" in python,0.013742595
+Sun May  3 00:16:18 2020,942,Correct way to define Python source code encoding,0.01009664
+Sun May  3 00:16:43 2020,943,How to deal with SettingWithCopyWarning in Pandas?,0.015906315
+Sun May  3 00:16:52 2020,944,Is there a way to perform "if" in python's lambda,0.012473106
+Sun May  3 00:17:01 2020,945,What is the purpose of the single underscore "_" variable in Python?,0.011014846
+Sun May  3 00:17:10 2020,946,Is it possible to use Python to write cross-platform apps for both iOS and Android?,0.010088731
+Sun May  3 00:17:36 2020,947,Is there a need to close files that have no reference to them?,0.009693972
+Sun May  3 00:17:45 2020,948,Variables inside and outside of a class __init__() function,0.012039025
+Sun May  3 00:18:11 2020,949,Pandas: create two new columns in a dataframe with values calculated from a pre-existing column,0.012914609
+Sun May  3 00:18:20 2020,950,Process to convert simple Python script into Windows executable,0.010689573
+Sun May  3 00:18:46 2020,951,Batch Renaming of Files in a Directory,0.010876016
+Sun May  3 00:19:02 2020,952,How to replace the last occurence of an expression in a string,0.011175033
+Sun May  3 00:19:11 2020,953,How accurate is python's time.sleep()?,0.010036366
+Sun May  3 00:19:54 2020,954,Calling a base class's classmethod in Python,0.00950136
+Sun May  3 00:20:03 2020,955,How can I convert a datetime object to milliseconds since epoch (unix time) in Python?,0.010174908
+Sun May  3 00:20:24 2020,956,Escaping regex string in Python,0.011940085
+Sun May  3 00:20:59 2020,957,Python tuple trailing comma syntax rule,0.0110360375
+Sun May  3 00:21:08 2020,958,How to get first element in a list of tuples?,0.011326694
+Sun May  3 00:21:24 2020,959,How can I check for Python version in a program that uses new language features?,0.008401716
+Sun May  3 00:21:32 2020,960,Django: Get an object form the DB, or 'None' if nothing matches,0.010226128
+Sun May  3 00:21:41 2020,961,In Python, when to use a Dictionary, List or Set?,0.007481484
+Sun May  3 00:21:50 2020,962,sys.argv[1] meaning in script,0.010516088
+Sun May  3 00:21:58 2020,963,What is for Python what 'explode' is for PHP?,0.010754444
+Sun May  3 00:22:41 2020,964,Chain-calling parent constructors in python,0.0112074055
+Sun May  3 00:23:12 2020,965,How to get a random value in python dictionary,0.013018899
+Sun May  3 00:23:28 2020,966,Getting the caller function name inside another function in Python?,0.0133853825
+Sun May  3 00:23:37 2020,967,Repeat string to certain length,0.012329073
+Sun May  3 00:23:45 2020,968,What is the difference between ndarray and array in numpy?,0.009618582
+Sun May  3 00:24:01 2020,969,Why is the Borg pattern better than the Singleton pattern in Python,0.014560025
+Sun May  3 00:24:10 2020,970,Converting numpy dtypes to native python types,0.010774904
+Sun May  3 00:24:36 2020,971,How to fetch more than 1000?,0.0068724337
+Sun May  3 00:24:52 2020,972,Testing email sending,0.009240775
+Sun May  3 00:25:00 2020,973,How to flush output of Python print?,0.010989106
+Sun May  3 00:25:10 2020,974,Can I catch error codes when using Fabric to run() calls in a remote shell?,0.011039829
+Sun May  3 00:25:19 2020,975,Django not sending emails to admins,0.015019652
+Sun May  3 00:25:28 2020,976,About the PIL Error -- IOError: decoder zip not available,0.013466278
+Sun May  3 00:25:36 2020,977,How to open a file using the open with statement,0.01129336
+Sun May  3 00:25:45 2020,978,What's the difference between %s and %d in Python string formatting?,0.008570432
+Sun May  3 00:26:06 2020,979,Using global variables in a function other than the one that created them,0.011581842
+Sun May  3 00:26:22 2020,980,How do I check if a variable exists?,0.012742574
+Sun May  3 00:27:09 2020,981,Why can't I use a list as a dict key in python?,0.012967884
+Sun May  3 00:27:17 2020,982,Lexical closures in Python,0.010730872
+Sun May  3 00:27:44 2020,983,Repeat string to certain length,0.012329073
+Sun May  3 00:28:00 2020,984,How to create a read-only class property in Python?,0.011711004
+Sun May  3 00:28:40 2020,985,Is there a HAML implementation for use with Python and Django,0.012643817
+Sun May  3 00:29:18 2020,986,How to limit the maximum value of a numeric field in a Django model?,0.012186564
+Sun May  3 00:29:56 2020,987,Python Date Comparisons,0.011073288
+Sun May  3 00:30:29 2020,988,convert integer to a string in a given numeric base in python,0.01128169
+Sun May  3 00:30:37 2020,989,Simple URL GET/POST function in Python,0.01114995
+Sun May  3 00:30:47 2020,990,TransactionManagementError "You can't execute queries until the end of the 'atomic' block" while using signals, but only during Unit Testing,0.01228597
+Sun May  3 00:31:08 2020,991,np.mean() vs np.average() in Python NumPy?,0.04046609
+Sun May  3 00:31:16 2020,992,How do I "cd" in Python?,0.011090808
+Sun May  3 00:31:25 2020,993,Why is "if not someobj:" better than "if someobj == None:" in Python?,0.009270393
+Sun May  3 00:31:34 2020,994,Understanding the difference between __getattr__ and __getattribute__,0.013357126
+Sun May  3 00:32:23 2020,995,In Python, how do I iterate over a dictionary in sorted order?,0.008920893
+Sun May  3 00:32:41 2020,996,Python OrderedDict not keeping element order,0.012338205
+Sun May  3 00:32:49 2020,997,Does PyPy translate itself?,0.009421562
+Sun May  3 00:33:20 2020,998,How to get the size of a list,0.009070043
+Sun May  3 00:33:28 2020,999,Python: finding uid/gid for a given username/groupname (for os.chown),0.012940506
+Sun May  3 00:33:53 2020,1000,Best way to generate random file names in Python,0.011830977
+Sun May  3 00:34:02 2020,1001,Flask user authentication,0.010327398
+Sun May  3 00:34:49 2020,1002,How do I install SciPy on 64 bit Windows?,0.011697753
+Sun May  3 00:34:58 2020,1003,Python Pandas - How to flatten a hierarchical index in columns,0.013496049
+Sun May  3 00:35:24 2020,1004,Pandas: drop a level from a multi-level column index?,0.009552631
+Sun May  3 00:35:46 2020,1005,Find String index from last in Python,0.011499847
+Sun May  3 00:35:55 2020,1006,How do I determine if my python shell is executing in 32bit or 64bit mode on OS X?,0.010986339
+Sun May  3 00:36:04 2020,1007,Anyone know of a good Python based web crawler that I could use?,0.01302714
+Sun May  3 00:36:12 2020,1008,urllib2.HTTPError: HTTP Error 403: Forbidden,0.011170935
+Sun May  3 00:36:39 2020,1009,Python method/function arguments starting with asterisk and dual asterisk,0.011227961
+Sun May  3 00:36:48 2020,1010,Basic http file downloading and saving to disk in python?,0.010157183
+Sun May  3 00:37:09 2020,1011,Python equivalent of D3.js,0.01202513
+Sun May  3 00:38:09 2020,1012,Is it worth using Python's re.compile?,0.009921742
+Sun May  3 00:38:49 2020,1013,What is the preferred syntax for initializing a dict: curly brace literals {} or the dict() function?,0.014096749
+Sun May  3 00:39:12 2020,1014,Distributed task queues (Ex. Celery) vs crontab scripts,0.009776607
+Sun May  3 00:44:33 2020,1015,Python list subtraction operation,0.012638619
+Sun May  3 00:44:41 2020,1016,foggy on asterisk in python,0.006855015
+Sun May  3 00:45:07 2020,1017,In Django, how do I objects.get, but return None when nothing is found?,0.013524529
+Sun May  3 00:45:17 2020,1018,Is there any pythonic way to combine two dicts (adding values for keys that appear in both)?,0.014066906
+Sun May  3 00:46:13 2020,1019,How to execute Python scripts in Windows?,0.008705275
+Sun May  3 00:46:40 2020,1020,Check if a number is int or float,0.008274845
+Sun May  3 00:46:55 2020,1021,Python list of dictionaries search,0.0121623315
+Sun May  3 00:47:04 2020,1022,Create an empty list in python with certain size,0.010113871
+Sun May  3 00:47:26 2020,1023,Python: Using .format() on a Unicode-escaped string,0.01196266
+Sun May  3 00:47:42 2020,1024,Function and class documentation best practices for Python,0.012304349
+Sun May  3 00:48:35 2020,1025,Can someone explain __all__ in Python?,0.011587678
+Sun May  3 00:48:56 2020,1026,What does Python's eval() do? ,0.011618646
+Sun May  3 00:49:05 2020,1027,Is there a need to close files that have no reference to them?,0.009693972
+Sun May  3 00:49:39 2020,1028,What's the best way to return multiple values from a function in Python?,0.010614896
+Sun May  3 00:50:04 2020,1029,How does one monkey patch a function in python?,0.011686829
+Sun May  3 00:50:14 2020,1030,ImportError: No Module Named bs4 (BeautifulSoup),0.014834932
+Sun May  3 00:50:23 2020,1031,Why are pandas merges in python faster than data.table merges in R?,0.011570463
+Sun May  3 00:50:54 2020,1032,How to get the seconds since epoch from the time + date output of gmtime() in Python?,0.011404448
+Sun May  3 00:51:19 2020,1033,Pointers in Python?,0.014799429
+Sun May  3 00:51:40 2020,1034,Most elegant way to check if the string is empty in Python?,0.009570421
+Sun May  3 00:51:49 2020,1035,Javascript equivalent of Python's zip function,0.00970229
+Sun May  3 00:51:58 2020,1036,Random strings in Python 2.6 (Is this OK?),0.011240161
+Sun May  3 00:52:24 2020,1037,How to define two-dimensional array in python,0.16019502
+Sun May  3 01:49:28 2020,1038,Python - json without whitespaces,0.011564231
+Sun May  3 01:49:37 2020,1039,Worst Case Analysis for Regular Expressions,0.011523113
+Sun May  3 01:50:20 2020,1040,OSError: [Errno 2] No such file or directory while using python subprocess in Django,0.012984771
+Sun May  3 01:50:36 2020,1041,Using sphinx with Markdown instead of RST,0.011345319
+Sun May  3 01:50:45 2020,1042,How do I determine if my python shell is executing in 32bit or 64bit mode on OS X?,0.011045672
+Sun May  3 01:51:16 2020,1043,Is there a "not equal" operator in Python?,0.02686185
+Sun May  3 01:51:25 2020,1044,Heatmap in matplotlib with pcolor?,0.012245156
+Sun May  3 01:51:34 2020,1045,Pandas - how to get the data frame index as an array,0.010151068
+Sun May  3 01:51:43 2020,1046,Getting method parameter names in python,0.014807379
+Sun May  3 01:52:33 2020,1047,How can I consume a WSDL (SOAP) web service in Python?,0.008852304
+Sun May  3 01:53:05 2020,1048,What is a "slug" in Django?,0.008833908
+Sun May  3 01:53:36 2020,1049,What do backticks mean to the python interpreter: `num`,0.010614955
+Sun May  3 01:53:57 2020,1050,Python object deleting itself,0.008811072
+Sun May  3 01:54:30 2020,1051,Pythonic way to determine whether not null list entries are 'continuous',0.010166099
+Sun May  3 01:54:51 2020,1052,Find String index from last in Python,0.011499847
+Sun May  3 01:54:59 2020,1053,Django CSRF check failing with an Ajax POST request,0.008577073
+Sun May  3 01:55:08 2020,1054,Matplotlib: draw grid lines behind other graph elements,0.011711006
+Sun May  3 01:55:24 2020,1055,Is there a simple process-based parallel map for python?,0.012110766
+Sun May  3 01:55:32 2020,1056,Google Authenticator implementation in Python,0.013317219
+Sun May  3 01:55:55 2020,1057,Selenium: FirefoxProfile exception Can't load the profile,0.014402297
+Sun May  3 01:56:03 2020,1058,Python sqlite3 and concurrency,0.011350517
+Sun May  3 01:56:12 2020,1059,Python k-means algorithm,0.012588771
+Sun May  3 01:57:05 2020,1060,Pretty printing XML in Python,0.008574882
+Sun May  3 01:57:22 2020,1061,Should Python import statements always be at the top of a module?,0.00982804
+Sun May  3 01:57:43 2020,1062,Python: why are * and ** faster than / and sqrt()?,0.0123619605
+Sun May  3 01:58:14 2020,1063,How does Python manage int and long?,0.010137277
+Sun May  3 01:58:23 2020,1064,class method generates "TypeError: ... got multiple values for keyword argument ...",0.009887124
+Sun May  3 01:59:12 2020,1065,Boolean argument for script,0.011898127
+Sun May  3 01:59:54 2020,1066,Argparse optional positional arguments?,0.0087869875
+Sun May  3 02:00:03 2020,1067,How can I color Python logging output?,0.052573916
+Sun May  3 02:00:21 2020,1068,How do you append to a file in Python?,0.0074833864
+Sun May  3 02:00:30 2020,1069,Testing email sending,0.008807189
+Sun May  3 02:00:39 2020,1070,Convert base-2 binary number string to int,0.039044484
+Sun May  3 02:00:59 2020,1071,python properties and inheritance,0.0123470975
+Sun May  3 02:01:25 2020,1072,Python "SyntaxError: Non-ASCII character '\xe2' in file",0.007928694
+Sun May  3 02:01:33 2020,1073,Python setup.py develop vs install,0.009031859
+Sun May  3 02:01:43 2020,1074,How do I create a slug in Django?,0.13632025
